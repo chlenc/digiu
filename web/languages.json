@@ -1,0 +1,1646 @@
+{
+    "RU": {
+        "menu": {
+            "home": "Главная",
+            "news": "Новости",
+            "ecosystem": "Экосистема DigiU",
+            "lab": "Блокчейн лаборатория",
+            "assetManagement": "Управление активами",
+            "ai": "Разработки ИИ",
+            "venture": "Венчурный фонд",
+            "about": "О компании",
+            "projects": "Проекты",
+            "forInvestors": "Инвесторам",
+            "forPartners": "Партнерам",
+            "contact": "Контакты",
+            "login": "Войти",
+            "register": "Регистрация"
+        },
+        "head": {
+            "title": "Экосистема разработки и финансирования проектов в области искусственного интеллекта и блокчейн технологий",
+            "subtitle": "Основным выгодоприобретателем от развития высоких технологий\nдолжен быть обычный человек",
+            "downloadConcept": "Скачать концепцию",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=14JM4LGOvhKezeKU0oy67ifFFL-v1PgnY&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Количество инвесторов DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Зарегистрированные пользователи в экосистеме",
+            "itemTitle3": "182",
+            "itemText3": "Стран, состоящих в экосистеме DigiU"
+        },
+        "news": {
+            "title": "Новости",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Старт альфа-тестирования платформы EYWA",
+            "newsText1": "8 сентября 2021 года мы запустили первую фазу альфа-тестирования платформы EYWA- первого потенциального единорога экосистемы",
+            "newsLink1": "https://lk.digiu.ai/news/view/341\n",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Добро пожаловать в офис DigiU!",
+            "newsText2": "Готовы узнать, как проходит рабочий день DigiU? Кто отвечает за личный кабинет, создает ИИ-разработки DigiU, ищет самых лучших специалистов в команду по всему миру?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Внедрение ИИ разработок DigiU в сеть автосервисов",
+            "newsText3": "Собственник Hunter-Сервис обратился к нам с просьбой оптимизировать процесс контроля деятельности сотрудников на одной из его автомоек.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Экосистема DigiU",
+            "itemTitle1": "Блокчейн лаборатория",
+            "itemText1": "Разработка проектов в области блокчейн технологий",
+            "itemTitle2": "Управление активами",
+            "itemText2": "Доверительное управление криптоактивами",
+            "itemTitle3": "Лаборатория ИИ",
+            "itemText3": "Разработка проектов в области искусственного интеллекта",
+            "itemTitle4": "Венчурный фонд",
+            "itemText4": "Инвестиции в технологии и проекты в области ИИ и блокчейна",
+            "itemTitle5": "Международное сообщество\nинвесторов",
+            "itemText5": "Финансирование и информационное\nпродвижение проекта",
+            "itemTitle6": "Образовательная платформа",
+            "itemText6": "Онлайн образование в сфере венчурного инвестирования, DeFi, блокчейн и криптовалют"
+        },
+        "lab": {
+            "title": "Блокчейн лаборатория",
+            "subtitle": "Разработкой блокчейн проектов занимается подразделение DigiU.Lab.\nОбласти деятельности подразделения лежат в исследовании блокчейна, создании собственной DeFi экосистемы, разработки продуктов. Основным проектом блокчейн лаборатории является Eywa.Finance — кроссчейн протокол передачи данных и ликвидности.",
+            "item1": "Участник и призер международных Хакатонов",
+            "item2": "Eywa.Finance — первый продукт на стадии альфа-тестирования",
+            "item3": "В проекты лаборатории инвестируют международные венчурные фонды"
+        },
+        "assetManagement": {
+            "title": "Управление активами",
+            "subtitle": "DigiU.Wealth —  инвестиционный продукт экосистемы, приносящий ежемесячную прибыль без риска просадки депозита в ETH, BTC, USDT с октября 2020 года.",
+            "item1": "Пассивный заработок на рынке DeFi",
+            "item2": "Минимизация риска за счет независимых аудитов смарт-контрактов",
+            "item3": "Доходность более 30% годовых в USDT"
+        },
+        "ai": {
+            "title": "Разработки в области Искусственного интеллекта",
+            "subtitle": "Лаборатория ИИ включает в себя такие области разработки, как речевые технологии и обработка естественного языка, компьютерное зрение, предиктивная аналитика. Каждая область разработок является автономными сервисами и приложениями, которые имеют высокий потенциал взрывного роста в количестве пользователей и капитализации.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Запатентованная технология клонирования речи.\nDigiU.Voice трансформирует текст в речь с помощью ИИ-технологии text-to-speech, позволяет воспроизводить интонации, акценты и паузы конкретного человека.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision технология компьютерного зрения позволяющая различать предметы, возраст, эмоции людей.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Технология предиктивной аналитики позволяющая предсказывать движение рынка с использованием нейросетей."
+        },
+        "venture": {
+            "title": "Международный венчурный фонд\nдля IT-Стартапов",
+            "subtitle": "DigiU сопровождает IT-стартапы на всех этапах роста, помогает не только в развитии продукта, стратегии вывода продукта на рынок и продаж, но также в выходе на стратегических партнеров и привлечении инвесторов на следующих раундах.",
+            "itemTitle1": "Эдвайзерство и акселерация",
+            "itemText1": "Технологическая и продуктовая экспертиза",
+            "itemTitle2": "Финансирование",
+            "itemText2": "Предоставляем бизнес-ангельские инвестиции",
+            "itemTitle3": "Фандрайзинг",
+            "itemText3": "Помощь в привлечении дополнительных источников финансирования",
+            "itemTitle4": "Маркетинг",
+            "itemText4": "Рекламно-информационная поддержка"
+        },
+        "becomeCoowner": {
+            "title": "Станьте совладельцем сотен стартапов в области блокчейн и ИИ",
+            "button": "Стать инвестором DigiU"
+        },
+        "partners": {
+            "title": "Партнеры экосистемы"
+        },
+        "community": {
+            "title": "Международное сообщество инвесторов DigiU.Partners",
+            "subtitle": "Комьюнити DigiU насчитывает 103 069 партнеров из 182 стран мира. DigiU.Partners помогает инвесторам разобраться в проекте, создает сообщество, организовывает вебинары, конференции и помогает заниматься информационным продвижением проекта. Каждый партнер компании получает быструю обратную связь, ответы на интересующие вопросы, поддержку.",
+            "text": "Узнайте как стать совладельцем сотен стартапов в области блокчейн и ИИ от 500$",
+            "button": "Стать частью сообщества"
+        },
+        "education": {
+            "title": "Образовательные программы",
+            "subtitle": "Образовательная платформа DigiU.Education предоставляет возможность всем желающим получать платное и бесплатное образование в сфере финансов, инвестиций, DeFi.",
+            "itemTitle1": "Курс «Как стать венчурным инвестором»",
+            "itemText1": "Бесплатный курс для новичков\nв мире венчурных инвестиций",
+            "itemTitle2": "Курс «Введение в криптовалюту»",
+            "itemText2": "Бесплатный вводный курс для тех, кто хочет начать зарабатывать на криптовалютном рынке",
+            "itemTitle3": "Курс «Криптовалюты 2.0 DeFi»",
+            "itemText3": "Получите практические навыки заработка на крипторынке всего за 8 уроков",
+            "freeCource": "Получите доступ к бесплатному курсу: \n«Как стать венчурным инвестором»",
+            "button": "Получить доступ"
+        },
+        "subscribe": {
+            "title": "Получайте новости первым!",
+            "subtitle": "Подпишитесь на нашу рассылку, чтобы узнать больше о новых инвестициях, а также секреты успешных стартапов и венчурных фондов.",
+            "button": "Подписаться"
+        },
+        "footer": {
+            "title": "Разработка и финансирование проектов\nв области искусственного интеллекта и блокчейн технологий",
+            "ecosystem": "Экосистема DigiU",
+            "venture": "Венчурный фонд",
+            "ai": "Лаборатория искусственного интеллекта DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "АНО “ЦифровойТЫ” ОГРН 1195476086740 ИНН 5405050584 630102, Новосибирск, ул. Кирова, 48, офис 701 Р/с 407038103000000712970 в АО “Тинькофф Банк” ",
+            "offer": "Публичная оферта",
+            "email": "Почта:",
+            "phone": "Тел: "
+        }
+    },
+    "EN": {
+        "menu": {
+            "home": "Home",
+            "news": "News",
+            "ecosystem": "DigiU ecosystem",
+            "lab": "Blockchain lab",
+            "assetManagement": "Asset management",
+            "ai": "AI development",
+            "venture": "Venture fund",
+            "about": "About",
+            "projects": "Projects",
+            "forInvestors": "For investors",
+            "forPartners": "For partners",
+            "contact": "Contact",
+            "login": "Log in",
+            "register": "Register"
+        },
+        "head": {
+            "title": "An ecosystem for the development and financing of artificial intelligence and blockchain technology projects",
+            "subtitle": "The main beneficiary of high-tech development should be an ordinary man",
+            "downloadConcept": "Download the concept",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1U-p4jPWmWRawo8I_a6vokakZgUa_3GAh&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "DigiU Investiors",
+            "itemTitle2": "103 069",
+            "itemText2": "Users registered in the ecosystem",
+            "itemTitle3": "182",
+            "itemText3": "Countries in the DigiU ecosystem"
+        },
+        "news": {
+            "title": "News",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Launch of the EYWA platform alpha testing",
+            "newsText1": "On 8 September 2021, we launched the first phase of the alpha testing of the EYWA platform - the first potential ecosystem unicorn.",
+            "newsLink1": "https://lk.digiu.ai/news/view/341\n",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Welcome to the DigiU office!",
+            "newsText2": "Ready to find out how the working day at DigiU goes? Who is in charge of the front office, creating DigiU's AI development, and looking for the best people to join the team worldwide?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Implementing DigiU's AI development into a chain of car washes",
+            "newsText3": "The owner of Hunter-Service approached us with a request to optimise the process of controlling employee activity at one of its car washes.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "DigiU Ecosystem",
+            "itemTitle1": "Blockchain lab",
+            "itemText1": "Development of blockchain technology projects",
+            "itemTitle2": "Asset management",
+            "itemText2": "Crypto asset management",
+            "itemTitle3": "AI laboratory",
+            "itemText3": "Development of projects in the artificial intelligence field",
+            "itemTitle4": "Venture Fund",
+            "itemText4": "Investing in AI and blockchain technologies projects",
+            "itemTitle5": "International community of investors",
+            "itemText5": "Funding and promotion of the project",
+            "itemTitle6": "Education platform",
+            "itemText6": "Online education in venture capital, DeFi, blockchain and cryptocurrencies"
+        },
+        "lab": {
+            "title": "Blockchain Lab",
+            "subtitle": "The DigiU.Lab department develops blockchain projects.\nThe department's core activities are blockchain research, building its own DeFi ecosystem, and product development. The main blockchain lab project is Eywa.Finance, a cross-chain data and liquidity transfer protocol.",
+            "item1": "A participant and winner of international Hackathons",
+            "item2": "Eywa.Finance is the first product in the alpha testing stage",
+            "item3": "International venture capital funds invest in the lab's projects"
+        },
+        "assetManagement": {
+            "title": "Asset management",
+            "subtitle": "DigiU.Wealth is an ecosystem investment product offering monthly returns with no risk of deposit drawdown in ETH, BTC, USDT from October 2020.",
+            "item1": "Passive income on the DeFi market",
+            "item2": "Minimizing your risk with independent smart contract audits",
+            "item3": "Yield is more than 30% p.a. in USDT"
+        },
+        "ai": {
+            "title": "Developments in the AI field",
+            "subtitle": "The AI lab includes development areas such as speech technology and natural language processing, computer vision and predictive analytics. Each development area is autonomous services and applications that have a high potential for explosive growth in the number of users and capitalisation.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Patented speech cloning technology.\nDigiU.Voice transforms text into speech using text-to-speech AI technology and allows you to reproduce the intonation, accents and pauses of a specific person.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision is a computer vision technology that can distinguish objects, determine the age and emotions of people.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Predictive analytics technology that allows predicting market movements using neural networks."
+        },
+        "venture": {
+            "title": "International venture capital fund \nfor IT start-ups",
+            "subtitle": "DigiU supports IT start-ups at all growth stages, helping them with product development, product launch strategy and sales, as well as gaining strategic partners and attracting investors in the following rounds.",
+            "itemTitle1": "Advising and acceleration",
+            "itemText1": "Technology and product expertise",
+            "itemTitle2": "Funding",
+            "itemText2": "Provide business angel funding",
+            "itemTitle3": "Fundraising",
+            "itemText3": "Assistance in attracting additional funding",
+            "itemTitle4": "Marketing",
+            "itemText4": "Promotional and informational support"
+        },
+        "becomeCoowner": {
+            "title": "Become a co-owner of hundreds of blockchain and AI start-ups",
+            "button": "Become a DigiU investor"
+        },
+        "partners": {
+            "title": "Ecosystem partners"
+        },
+        "community": {
+            "title": "DigiU.Partners international community of investors",
+            "subtitle": "DigiU community has 103 069 partners from 182 countries around the world. DigiU.Partners helps investors to understand the project, creates a community, organizes webinars, conferences and helps to deal with the informational promotion of the project. Every partner gets quick feedback, answers to their questions and support.",
+            "text": "Learn how to become a co-owner of hundreds of blockchain and AI startups from $500",
+            "button": "Become part of the community"
+        },
+        "education": {
+            "title": "Educational programmes",
+            "subtitle": "The DigiU.Education platform allows everyone to get both free and paid education in finance, investment and DeFi.",
+            "itemTitle1": "How to Become a Venture Capitalist Course",
+            "itemText1": "Free course for those new to the world of venture capital investing",
+            "itemTitle2": "Introduction to Cryptocurrency Course",
+            "itemText2": "Free introductory course for those who want to start earning on the cryptocurrency market",
+            "itemTitle3": "Cryptocurrencies 2.0 DeFi Course",
+            "itemText3": "Gain practical skills to make money in the crypto market in just 8 lessons",
+            "freeCource": "Access the free course: \nHow to become a venture capitalist",
+            "button": "Get access"
+        },
+        "subscribe": {
+            "title": "Get the news first!",
+            "subtitle": "Sign up for our newsletter to find out more about new investments as well as the secrets of successful start-ups and venture capital funds.",
+            "button": "Subscribe"
+        },
+        "footer": {
+            "title": "Development and financing of artificial intelligence \nand blockchain technologies",
+            "ecosystem": "DigiU Ecosystem",
+            "venture": "Venture fund",
+            "ai": "DigiU Artificial Intelligence Lab",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO \"DIGITALYOU\" PSRN 1195476086740 Tax Payer Number 5405050584 office 701, 48 Kirova St., Novosibirsk, Russia 630102 current account 4070381030000712970 with Tinkoff Bank JSC\n ",
+            "offer": "Public offer",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "FR": {
+        "menu": {
+            "home": "Accueil",
+            "news": "Actualités ",
+            "ecosystem": "Écosystème DigiU",
+            "lab": "Laboratoire blockchain",
+            "assetManagement": "Gestion d'actifs",
+            "ai": "Développements IA",
+            "venture": "Fonds de capital-risque",
+            "about": "À propos de l’entreprise",
+            "projects": "Projets",
+            "forInvestors": "Investisseurs",
+            "forPartners": "Partenaires",
+            "contact": "Contacts",
+            "login": "Se connecter",
+            "register": "S’inscrire"
+        },
+        "head": {
+            "title": "Écosystème de développement et de financement de projets dans le domaine de l’intelligence artificielle et de la technologie blockchain",
+            "subtitle": "Le développement des hautes technologies doit profiter au plus grand nombre de personnes possible",
+            "downloadConcept": "Télécharger le concept",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1ZBjU5NNcI0mZUdykmHxh3URnYUrTKnRL&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Nombre d'investisseurs dans DigiU ",
+            "itemTitle2": "103 069",
+            "itemText2": "Utilisateurs enregistrés dans l'écosystème ",
+            "itemTitle3": "182",
+            "itemText3": "Pays représentés dans\nl’écosystème DigiU"
+        },
+        "news": {
+            "title": "Actualités",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Lancement du Test Alpha de la plateforme EYWA",
+            "newsText1": "En septembre 2021, nous avons démarré la première phase du test alpha de la plateforme EYWA, la première licorne potentielle de l’écosystème.",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Bienvenue dans les bureaux de DigiU",
+            "newsText2": "Vous êtes prêts à découvrir comment se déroule une journée de travail chez DigiU? Qui s’occupe de l’espace personnel, qui développe les produits IA de DigiU, qui recrute les talents à travers le monde pour rejoindre l'équipe?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "L’intelligence artificielle de DigiU introduite dans un réseau de services automobile",
+            "newsText3": "Le responsable de Hunter-Service nous a contactés afin d’optimiser le processus de surveillance des activités des employés dans l’un de ses centres de lavage.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "L’écosystème DigiU",
+            "itemTitle1": "Laboratoire blockchain",
+            "itemText1": "Développement de projets dans le domaine de la technologie blockchain",
+            "itemTitle2": "Gestion d’actifs",
+            "itemText2": "Gestion fiduciaire de crypto-actifs",
+            "itemTitle3": "Laboratoire IA",
+            "itemText3": "Développement de projets dans le domaine de l’intelligence artificielle",
+            "itemTitle4": "Fonds de capital-risque",
+            "itemText4": "Investissements dans des technologies et des projets dans le domaine de l’IA et de la blockchain",
+            "itemTitle5": "Communauté internationale d’investisseurs",
+            "itemText5": "Financement et promotion de projets",
+            "itemTitle6": "Plateforme pédagogique",
+            "itemText6": "Cours en ligne sur l’investissement en capital-risque, la DeFi, la technologie blockchain et les cryptomonnaies"
+        },
+        "lab": {
+            "title": "Laboratoire blockchain",
+            "subtitle": "Le département DigiU.Lab a pour mission de développer des projets liés à la blockchain. \nLe département est chargé d’analyser la blockchain, de créer son propre écosystème DeFi et de développer des produits. Le principal projet du laboratoire s’appelle Eywa.Finance, un protocole crosschain de transfert de données et de liquidité.",
+            "item1": "Participant et lauréat de hackathons internationaux",
+            "item2": "Eywa.Finance est le premier produit à atteindre le stade du test alpha",
+            "item3": "Des fonds de capital-risque internationaux investissent dans les projets du laboratoire"
+        },
+        "assetManagement": {
+            "title": "Gestion d’actifs",
+            "subtitle": "DigiU.Wealth est le premier produit d’investissement de l’écosystème. Depuis octobre 2020, il génère des bénéfices mensuels en ETH, BTC et USDT, sans risque de perte de dépôt.",
+            "item1": "Gains passifs sur le marché DeFi",
+            "item2": "Risque minimum compte tenu des nombreux audits de smart contracts",
+            "item3": "Rendement supérieur à 30% par an en USDT"
+        },
+        "ai": {
+            "title": "Développements IA",
+            "subtitle": "Le laboratoire IA comprend des domaines de développement tels que la technologie de la parole et le traitement du langage naturel, la vision par ordinateur et l’analyse prédictive. Chaque secteur est constitué de services autonomes et d’applications qui possèdent un fort potentiel de croissance, aussi bien en termes de nombre d’utilisateurs que de capitalisation.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Technologie brevetée de clonage du discours.\nDigiU.Voice transforme un texte en discours à l’aide de la technologie IA text-to-speech en reproduisant les intonations, l’accent et les pauses dans le discours d’une personne définie.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision est une technologie de vision par ordinateur qui permet de distinguer les objets, mais aussi l’âge et les émotions des personnes.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Technologie d’analyse prédictive qui permet de prédire les mouvements de marché grâce à l’utilisation de réseaux de neurones."
+        },
+        "venture": {
+            "title": "Fonds de capital-risque international pour\nles startups IT",
+            "subtitle": "DigiU accompagne les startups IT durant toutes les étapes de croissance du projet en leur apportant un soutien non seulement dans le développement de produits, la stratégie d’introduction sur le marché et les ventes, mais également dans la recherche de partenaires stratégiques et d’investisseurs en vue des futurs cycles de développement.",
+            "itemTitle1": "Conseil et accélération",
+            "itemText1": "Expertise technologique et analyse de produit",
+            "itemTitle2": "Financement",
+            "itemText2": "Nous fournissons des investissements provenant de business angels",
+            "itemTitle3": "Campagne de financement",
+            "itemText3": "Nous fournissons notre aide pour attirer des sources de financement supplémentaires",
+            "itemTitle4": "Marketing",
+            "itemText4": "Soutien promotionnel"
+        },
+        "becomeCoowner": {
+            "title": "Devenez copropriétaire de centaines de startups dans le domaine de la blockchain et de l’IA",
+            "button": "Devenir investisseur DigiU"
+        },
+        "partners": {
+            "title": "Partenaires de l’écosystème"
+        },
+        "community": {
+            "title": "Communauté internationale d’investisseurs DigiU.Partners",
+            "subtitle": "La communauté DigiU regroupe 103 069 partenaires originaires de 182 pays. DigiU.Partners aide les investisseurs à comprendre le projet, à créer une communauté, à organiser des webinaires ou des conférences et à promouvoir efficacement le projet. Chaque partenaire de l’entreprise bénéficie d’un soutien personnalisé et de réponses rapides à l’ensemble des questions posées.",
+            "text": "Découvrez comment devenir copropriétaire de centaines de startups dans le domaine de la blockchain à partir de 500$",
+            "button": "Devenir membre de la communauté "
+        },
+        "education": {
+            "title": "Programme pédagogique",
+            "subtitle": "La plateforme pédagogique DigiU.Education propose à tous ceux qui le souhaitent de recevoir une formation payante ou gratuite dans les domaines de la finance, de l’investissement et de la DeFi.",
+            "itemTitle1": "Cours «Comment devenir investisseur en capital-risque»",
+            "itemText1": "Cours gratuit pour les nouveaux venus dans le monde de l’investissement en capital-risque",
+            "itemTitle2": "Cours «Introduction à la cryptomonnaie»",
+            "itemText2": "Un cours d’introduction gratuit pour ceux qui souhaitent commencer à gagner de l’argent sur le marché des cryptomonnaies",
+            "itemTitle3": "Cours «Cryptomonnaie 2.0 DeFi»",
+            "itemText3": "Faites l’acquisition de compétences pratiques pour gagner de l’argent sur le marché crypto en seulement 8 leçons",
+            "freeCource": "Obtenez un accès gratuit au cours: \n«Comment devenir investisseur en capital-risque»",
+            "button": "Obtenir l’accès"
+        },
+        "subscribe": {
+            "title": "Recevez toutes nos actualités en premier!",
+            "subtitle": "Abonnez-vous à notre bulletin d'information pour en apprendre davantage sur les nouveaux investissements, mais aussi sur les secrets des startups et des fonds de capital-risque les plus prospères.",
+            "button": "S’abonner"
+        },
+        "footer": {
+            "title": "Développement et financement de projets dans le domaine \nde l’intelligence artificielle et de la technologie blockchain",
+            "ecosystem": "Écosystème DigiU",
+            "venture": "Fonds de capital-risque",
+            "ai": "Laboratoire d’intelligence artificielle de DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "OBNL “DigitalU”, Numéro d’enregistrement 1195476086740, NIF 5405050584 630102, Bureau 701, 48 rue Kirov, Novossibirsk, Russie, Compte 407038103000000712970 chez SPA “Tinkoff Bank”,\n ",
+            "offer": "Offre publique",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "VN": {
+        "menu": {
+            "home": "Trang chủ",
+            "news": "Tin tức",
+            "ecosystem": "Hệ sinh thái DigiU",
+            "lab": "Phòng nghiên cứu blockchain",
+            "assetManagement": "Quản lý tài sản",
+            "ai": "Các thiết kế và phát triển về TTNT",
+            "venture": "Quỹ đầu tư mạo hiểm",
+            "about": "Giới thiệu công ty",
+            "projects": "Các dự án",
+            "forInvestors": "Cho các nhà đầu tư",
+            "forPartners": "Cho các đối tác",
+            "contact": "Thông tin liên hệ",
+            "login": "Đăng nhập",
+            "register": "Đăng ký"
+        },
+        "head": {
+            "title": "Hệ sinh thái các thiết kế, phát triển và tài trợ cho các dự án trong lĩnh vực Trí tuệ  nhân tạo và công nghệ Blockchain",
+            "subtitle": "Người hưởng lợi chính từ sự phát triển các công nghệ cao phải là một người bình thường.",
+            "downloadConcept": "Tải đề cương",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1YPSYCHjEv-6qEjGtHm3lyx-XJhiOdzK0&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Số lượng nhà đầu tư của DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Người dùng đã đăng ký trong hệ sinh thái",
+            "itemTitle3": "182",
+            "itemText3": "Các quốc gia trong thành \nphần của hệ sinh thái DigiU"
+        },
+        "news": {
+            "title": "Tin tức",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Bắt đầu thử nghiệm Alpha của nền tảng EYWA",
+            "newsText1": "Ngày 8 tháng 9 năm 2021, chúng tôi đã khởi chạy giai đoạn đầu tiên của thử nghiệm Alpha của nền tảng EYWA - kỳ lân tiềm năng  đầu tiên của hệ sinh thái",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Chào mừng đến thăm văn phòng DigiU!",
+            "newsText2": "Bạn đã sẵn sàng để biết một ngày làm việc của DigiU diễn ra như thế nào chưa? Ai chịu trách nhiệm về tài khoản cá nhân, ai tạo ra các thiết kế về TTNT của DigiU, ai tìm kiếm các chuyên gia tốt nhất cho đội ngũ từ khắp nơi trên thế giới?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Áp dụng các thiết kế TTNT của DigiU vào mạng lưới dịch vụ xe hơi",
+            "newsText3": "Chủ sở hữu của Hunter-Service đã liên hệ với chúng tôi và yêu cầu tối ưu hóa quy trình giám sát hoạt động của các nhân viên tại một tiệm rửa xe của họ.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Hệ sinh thái DigiU",
+            "itemTitle1": "Phòng nghiên cứu Blockchain",
+            "itemText1": "Thiết kế các dự án trong lĩnh vực công nghệ Blockchain",
+            "itemTitle2": "Quản lý tài sản",
+            "itemText2": "Quản lý ủy thác tiền điện tử",
+            "itemTitle3": "Phòng nghiên cứu TTNT",
+            "itemText3": "Thiết kế các dự án trong lĩnh vực Trí tuệ nhân tạo",
+            "itemTitle4": "Quỹ đầu tư mạo hiểm",
+            "itemText4": "Đầu tư vào các công nghệ và các dự án trong lĩnh vực TTNT và Blockchain",
+            "itemTitle5": "Cộng đồng quốc tế các nhà đầu tư",
+            "itemText5": "Tài trợ và quảng bá thông tin về dự án",
+            "itemTitle6": "Nền tảng giáo dục",
+            "itemText6": "Giáo dục trực tuyến trong lĩnh vực Đầu tư mạo hiểm, DeFi, Blockchain và Tiền điện tử"
+        },
+        "lab": {
+            "title": "Phòng nghiên cứu Blockchain",
+            "subtitle": "Bộ phận DigiU.Lab nghiên cứu thiết kế các dự án về Blockchain Các lĩnh vực hoạt động của bộ phận là nghiên cứu blockchain, tạo ra hệ sinh thái DeFi của riêng mình và thiết kế các sản phẩm. Dự án chính của phòng nghiên cứu Blockchain là Eywa.Finance – đây là giao thức truyền dữ liệu và thanh khoản xuyên chuỗi.",
+            "item1": "Người tham gia và đoạt giải các Hackathon quốc tế",
+            "item2": "Eywa.Finance là sản phẩm đầu tiên đang trong giai đoạn thử nghiệm Alpha",
+            "item3": "Các dự án của phòng nghiên cứu được các quỹ đầu tư mạo hiểm quốc tế đầu tư"
+        },
+        "assetManagement": {
+            "title": "Quản lý tài sản",
+            "subtitle": "DigiU.Wealth là sản phẩm đầu tư của hệ sinh thái mang lại lợi nhuận hàng tháng mà không có rủi ro giảm giá trị khoản tiền gửi bằng ETH, BTC, USDT kể từ tháng 10 năm 2020.",
+            "item1": "Thu nhập thụ động trên thị trường DeFi",
+            "item2": "Giảm thiểu rủi ro bằng cách kiểm toán độc lập các hợp đồng thông minh",
+            "item3": "Lợi suất trên 30% mỗi năm bằng USDT"
+        },
+        "ai": {
+            "title": "Các thiết kế trong lĩnh vực TTNT",
+            "subtitle": "Phòng nghiên cứu TTNT gồm các lĩnh vực thiết kế như công nghệ giọng nói và xử lý ngôn ngữ tự nhiên, thị giác máy tính, phân tích dự đoán. Mỗi lĩnh vực thiết kế là các dịch vụ và ứng dụng độc lập có tiềm năng tăng trưởng bùng nổ về số lượng người dùng và quy mô vốn hóa.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Công nghệ nhân bản giọng nói đã được cấp bằng sáng chế.\nDigiU.Voice chuyển văn bản thành giọng nói nhờ công nghệ TTNT text-to-speech, cho phép tái tạo ngữ điệu, điểm nhấn và chỗ ngắt giọng của một người cụ thể.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision là công nghệ thị giác máy tính cho phép phân biệt các đối tượng, độ tuổi, cảm xúc của con người.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Công nghệ phân tích dự đoán cho phép dự đoán biến động của thị trường bằng cách sử dụng mạng nơ-ron."
+        },
+        "venture": {
+            "title": "Quỵ đầu tư mạo hiểm quốc tế dành \ncho các dự án khởi nghiệp về CNTT",
+            "subtitle": "DigiU đồng hành cùng các dự án khởi nghiệp về CNTT trong tất cả các giai đoạn tăng trưởng, không chỉ giúp phát triển sản phẩm, chiến lược đưa sản phẩm xâm nhập thị trường và bán hàng, mà còn tiếp cận các đối tác chiến lược và thu hút các nhà đầu tư trong các vòng tiếp theo.",
+            "itemTitle1": "Tư vấn và tăng tốc",
+            "itemText1": "Giám định về công nghệ và sản phẩm",
+            "itemTitle2": "Tài trợ",
+            "itemText2": "Cung cấp các khoản đầu tư thiên thần trong kinh doanh",
+            "itemTitle3": "Gây quỹ",
+            "itemText3": "Hỗ trợ trong việc thu hút các nguồn tài trợ bổ sung",
+            "itemTitle4": "Tiếp thị",
+            "itemText4": "Hỗ trợ quảng cáo và thông tin"
+        },
+        "becomeCoowner": {
+            "title": "Hãy trở thành đồng sở hữu hàng trăm dự án khởi nghiệp trong lĩnh vực Blockchain và TTNT",
+            "button": "Hãy trở thành nhà đầu tư DigiU"
+        },
+        "partners": {
+            "title": "Đối tác của hệ sinh thái"
+        },
+        "community": {
+            "title": "Cộng đồng các nhà đầu tư quốc tế DigiU.Partners",
+            "subtitle": "Cộng đồng DigiU có 103 069 đối tác từ 182 quốc gia. DigiU.Partners giúp các nhà đầu tư hiểu rõ dự án, tạo lập cộng đồng, tổ chức các hội thảo trên web, hội nghị và giúp quảng bá thông tin về dự án. Mỗi đối tác của công ty nhận được phản hồi nhanh chóng, giải đáp những vấn đề mình quan tâm, và hỗ trợ.",
+            "text": "Tìm hiểu cách trở thành đồng sở hữu hàng trăm dự án khởi nghiệp trong lĩnh vực Blockchain và TTNT với $500 trở lên",
+            "button": "Trở thành một phần của cộng đồng"
+        },
+        "education": {
+            "title": "Các chương trình giáo dục",
+            "subtitle": "Nền tảng giáo dục DigiU.Education mang đến cho mọi người cơ hội nhận được chương trình giáo dục miễn phí và có thu phí về lĩnh vực tài chính, đầu tư, DeFi.",
+            "itemTitle1": "Khóa học «Làm thế nào để trở thành nhà đầu tư mạo hiểm»",
+            "itemText1": "Khóa học miễn phí dành cho người mới bắt đầu trong thế giới đầu tư mạo hiểm",
+            "itemTitle2": "Khóa học «Giới thiệu về Tiền điện tử»",
+            "itemText2": "Khóa học nhập môn miễn phí dành cho những người muốn bắt đầu kiếm tiền trên thị trường tiền điện tử",
+            "itemTitle3": "Khóa học «Tiền điện tử 2.0 DeFi»",
+            "itemText3": "Hãy nhận được các kỹ năng thực hành và cách kiếm tiền trên thị trường tiền điện tử  chỉ trong 8 bài học",
+            "freeCource": "Hãy nhận quyền truy cập vào khóa học miễn phí:\n«Làm thế nào để trở thành nhà đầu tư mạo hiểm»",
+            "button": "Nhận được quyền truy cập"
+        },
+        "subscribe": {
+            "title": "Hãy là người đầu tiên nhận được tin tức!",
+            "subtitle": "Hãy đăng ký thư gửi của chúng tôi để biết nhiều hơn về các dạng đầu tư mới, cũng như những bí quyết của các dự án khởi nghiệp và quỹ mạo hiểm thành công.",
+            "button": "Đăng ký"
+        },
+        "footer": {
+            "title": "Thiết kế và tài trợ cho các dự án\ntrong lĩnh vực Trí tuệ nhân tạo và công nghệ Blockchain",
+            "ecosystem": "Hệ sinh thái DigiU",
+            "venture": "Quỹ đầu tư mạo hiểm",
+            "ai": "Phòng nghiên cứu Trí tuệ nhân tạo của DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO “TsifrovoiTY” OGRN 1195476086740 INN 5405050584 630102, Novosibirsk, phố Kirov, nhà số 48, văn phòng 701. Tài khoản số 407038103000000712970 tại CT CP “Tinkoff Bank”\n",
+            "offer": "Chào giá công khai",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "DE": {
+        "menu": {
+            "home": "Heimat",
+            "news": "Nachrichten",
+            "ecosystem": "DigiU-Ökosystem",
+            "lab": "Blockchain-Labor",
+            "assetManagement": "Vermögensverwaltung",
+            "ai": "KI-Entwicklung",
+            "venture": "Venture-Fonds",
+            "about": "Über das Unternehmen",
+            "projects": "Projekte",
+            "forInvestors": "Investoren",
+            "forPartners": "Für Partner",
+            "contact": "Kontakte",
+            "login": "Betreten",
+            "register": "Anmeldung"
+        },
+        "head": {
+            "title": "Ökosystem zur Entwicklung und Finanzierung von Projekten im Bereich der künstlichen Intelligenz und Blockchain-Technologien",
+            "subtitle": "Hauptnutznießer der Entwicklung von Hochtechnologien muss ein gewöhnlicher Mensch sein.",
+            "downloadConcept": "Konzept herunterladen",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1LVgKmLfdX3UOahyIIhklPfv-rRvPaX0i&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Anzahl der DigiU-Investoren",
+            "itemTitle2": "103 069",
+            "itemText2": "Registrierte Benutzer im Ökosystem",
+            "itemTitle3": "182",
+            "itemText3": "Länder gebildet\nim DigiU-Ökosystem"
+        },
+        "news": {
+            "title": "Nachrichten",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Beginn der Alpha-Tests\nEYWA-Plattformen",
+            "newsText1": "Am 8. September 2021 haben wir die erste Phase des Alpha-Tests der EYWA-Plattform gestartet - das erste Potenzial Einhorn-Ökosystem",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Willkommen im DigiU-Büro!",
+            "newsText2": "Sind Sie bereit herauszufinden, wie Ihr DigiU-Tag verläuft? Wer für den persönlichen Account zuständig ist, erstellt KI-Entwicklungen DigiU, sucht die besten Spezialisten für das Team weltweit?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "KI-Entwicklung DigiU zum Netzwerk der Autodienste",
+            "newsText3": "Der Inhaber von Hunter-Service kontaktierte uns mit der Bitte, den Prozess der Überwachung der Aktivitäten der Mitarbeiter in einer seiner Waschanlagen zu optimieren.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "DigiU-Ökosystem",
+            "itemTitle1": "Blockchain-Labor",
+            "itemText1": "Projektentwicklung im Bereich Blockchain-Technologien",
+            "itemTitle2": "Vermögensverwaltung",
+            "itemText2": "Vertrauensmanagement Kryptoassets",
+            "itemTitle3": "KI-Labor",
+            "itemText3": "Projektentwicklung im Bereich der künstlichen Intelligenz",
+            "itemTitle4": "Venture-Fonds",
+            "itemText4": "Investition in Technologie und KI-Projekte und Blockchain",
+            "itemTitle5": "Internationale Community Investoren",
+            "itemText5": "Finanzierung und Informationen Projektförderung",
+            "itemTitle6": "Bildungsplattform",
+            "itemText6": "Online-Ausbildung im Bereich Venture-Investitionen, DeFi, Blockchain und Kryptowährungen"
+        },
+        "lab": {
+            "title": "Blockchain-Labor",
+            "subtitle": "Blockchain-Projekte werden von der Division DigiU.Lab entwickelt\nDie Tätigkeitsfelder der Division liegen in der Blockchain-Forschung, dem Aufbau eines eigenen DeFi-Ökosystems und der Produktentwicklung. Das Hauptprojekt des Blockchain-Labors ist Eywa.Finance – ein kettenübergreifendes Daten- und Liquiditätsübertragungsprotokoll.",
+            "item1": "Teilnehmer und Preisträger internationale Hackathons",
+            "item2": "Eywa.Finance ist das erste Produkt auf Alpha-Testphasen",
+            "item3": "Zu Laborprojekten international investieren Venture-Fonds"
+        },
+        "assetManagement": {
+            "title": "Vermögensverwaltung",
+            "subtitle": "DigiU.Wealth ist ein Ökosystem-Investmentprodukt, das seit Oktober 2020 monatliche Gewinne ohne das Risiko eines Einzahlungsabbaus in ETH, BTC, USDT bringt.",
+            "item1": "Passives Einkommen im DeFi-Markt",
+            "item2": "Risikominimierung durch unabhängige Prüfungen von Smart Contracts",
+            "item3": "Rentabilität über 30% pro Jahr in USDT"
+        },
+        "ai": {
+            "title": "KI-Entwicklungen",
+            "subtitle": "Das KI-Labor umfasst Entwicklungsbereiche wie Sprachtechnologie und Natural Language Processing, Computer Vision, Predictive Analytics. Jeder Entwicklungsbereich besteht aus eigenständigen Diensten und Anwendungen, die ein hohes Potenzial für ein explosives Wachstum der Benutzerzahl und der Kapitalisierung aufweisen.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Patentierte Sprachklonierungstechnologie.\nDigiU.Voice wandelt Text mithilfe der Text-to-Speech-KI-Technologie in Sprache um und ermöglicht es Ihnen, Intonationen, Akzente und Pausen einer bestimmten Person zu reproduzieren.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision ist eine Computer-Vision-Technologie, die es ermöglicht, zwischen Objekten, Alter und Emotionen von Menschen zu unterscheiden.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Predictive Analytics-Technologie, die es ermöglicht, Marktbewegungen mithilfe neuronaler Netze vorherzusagen."
+        },
+        "venture": {
+            "title": "Internationales Unternehmen\nFonds für IT-Startups",
+            "subtitle": "DigiU begleitet IT-Startups in allen Wachstumsphasen, hilft nicht nur bei der Produktentwicklung, der Product-to-Market-Strategie und dem Vertrieb, sondern auch dabei, strategische Partner zu erreichen und Investoren in den nächsten Runden zu gewinnen.",
+            "itemTitle1": "Beratung und Beschleunigung",
+            "itemText1": "Technologie- und Produktkompetenz",
+            "itemTitle2": "Finanzierung",
+            "itemText2": "Wir bieten Business-Angel-Investitionen",
+            "itemTitle3": "Spendensammlung",
+            "itemText3": "Unterstützung bei der Gewinnung zusätzlicher Finanzierungsquellen",
+            "itemTitle4": "Marketing",
+            "itemText4": "Werbe- und Informationsunterstützung"
+        },
+        "becomeCoowner": {
+            "title": "Werden Sie Miteigentümer von Hunderten von Startups im Bereich Blockchain und KI",
+            "button": "Werden Sie DigiU-Investor"
+        },
+        "partners": {
+            "title": "Ökosystempartner"
+        },
+        "community": {
+            "title": "Internationale Investorengemeinschaft DigiU.Partner",
+            "subtitle": "Die DigiU-Community hat 103 069 Partner aus 182 Ländern. DigiU.Partners hilft Investoren, das Projekt zu verstehen, schafft eine Community, organisiert Webinare, Konferenzen und hilft, die Projektinformationen zu fördern. Jeder Partner des Unternehmens erhält schnelles Feedback, Antworten auf interessante Fragen, Unterstützung.",
+            "text": "Finden Sie heraus, wie Sie Miteigentümer von Hunderten von Startups werden im Bereich Blockchain und KI ab 500 $",
+            "button": "Werde Teil der Community"
+        },
+        "education": {
+            "title": "Bildungsprogramme",
+            "subtitle": "Die Bildungsplattform DigiU.Education bietet jedem die Möglichkeit, bezahlt zu werden und kostenlose Ausbildung in Finanzen, Investitionen, DeFi.",
+            "itemTitle1": "Kurs «Wie wird man Risikoinvestor»",
+            "itemText1": "Kostenloser Kurs für Anfänger in der Welt der Venture-Investments",
+            "itemTitle2": "Kurs «Einführung in die Kryptowährung»",
+            "itemText2": "Kostenloser Einführungskurs für diejenigen, die anfangen wollen zu verdienen auf dem Kryptowährungsmarkt",
+            "itemTitle3": "Kurs «Kryptowährungen 2.0 DeFi»",
+            "itemText3": "Erwerben Sie praktische Fähigkeiten Gewinn auf dem Kryptomarkt in nur 8 Lektionen",
+            "freeCource": "Erhalten Sie Zugang zu einem kostenlosen Kurs:\nSo werden Sie Venture-Investor",
+            "button": "Zugang erhalten"
+        },
+        "subscribe": {
+            "title": "Seien Sie der Erste, der Neuigkeiten erhält!",
+            "subtitle": "Abonnieren Sie unseren Newsletter, um mehr über neue Investments sowie die Geheimnisse erfolgreicher Startups und Venture Funds zu erfahren.",
+            "button": "Jetzt abonnieren"
+        },
+        "footer": {
+            "title": "Entwicklung und Finanzierung von Projekten\nim Bereich Künstliche Intelligenz und Blockchain-Technologien",
+            "ecosystem": "DigiU-Ökosystem",
+            "venture": "Venture-Fonds",
+            "ai": "Labor für künstliche Intelligenz DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO ZifrovoyTY PSRN 1195476086740 INN 5405050584 630102, Nowosibirsk, str. Kirov, 48, Büro 701 R / s 407038103000000712970 in Tinkoff Bank JSC\nE-Mail: info@digiu.ai Tel.: + 7-383-258-13-99, + 7-923-142-45-86",
+            "offer": "Öffentliches Angebot",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "ES": {
+        "menu": {
+            "home": "Principal",
+            "news": "Noticias",
+            "ecosystem": "Ecosistema DigiU",
+            "lab": "Laboratorio de cadena de bloques",
+            "assetManagement": "Gestión de activos",
+            "ai": "Desarrollos IA",
+            "venture": "Fondo de capital riesgo",
+            "about": "Acerca de la empresa",
+            "projects": "Proyectos",
+            "forInvestors": "Para los inversores",
+            "forPartners": "Para los asociados",
+            "contact": "Contactos",
+            "login": "Acceder",
+            "register": "Inscríbete"
+        },
+        "head": {
+            "title": "Ecosistema de desarrollo y financiación de proyectos en el ámbito de la inteligencia artificial y tecnologías de cadena de bloques",
+            "subtitle": "El principal beneficiario del desarrollo de la alta tecnología debe ser una persona común y corriente.",
+            "downloadConcept": "Descargar el concepto",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1apugrWUmBCYd51vNiIt8u1btSsYfQLF8&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Número de inversores de DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Usuarios registrados en el ecosistema",
+            "itemTitle3": "182",
+            "itemText3": "Países presentes en el\necosistema DigiU"
+        },
+        "news": {
+            "title": "Noticias",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Inicio de las pruebas alfa\nPlataforma EYWA",
+            "newsText1": "El 8 de septiembre de 2021, lanzamos la primera fase de las pruebas alfa de la plataforma EYWA, el primer unicornio potencial del ecosistema",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "¡Bienvenido a la oficina de DigiU!",
+            "newsText2": "¿Listo para saber cómo es la jornada laboral de DigiU? ¿Quién se encarga de la oficina principal, de crear el desarrollo de la IA de DigiU y de buscar a los mejores para que se unan al equipo por todo el mundo?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Implementación de los desarrollos de IA de DigiU a una red de servicios de automóviles",
+            "newsText3": "El propietario de Hunter-Service se puso en contacto con nosotros para pedirnos que optimizáramos el proceso de supervisión de la actividad de los empleados en uno de sus lavaderos de coches.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Ecosistema DigiU",
+            "itemTitle1": "Laboratorio de Blockchain",
+            "itemText1": "Desarrollo de proyectos en el campo de la tecnología blockchain",
+            "itemTitle2": "Gestión de activos",
+            "itemText2": "Gestión de confianza de criptoactivos",
+            "itemTitle3": "Laboratorio de IA",
+            "itemText3": "Desarrollo de proyectos en el campo de la inteligencia artificial",
+            "itemTitle4": "Fondo de capital riesgo",
+            "itemText4": "Inversiones en tecnologías y proyectos en el ámbito de la IA y la cadena de bloques",
+            "itemTitle5": "Comunidad internacional de inversores",
+            "itemText5": "Financiación y promoción de la información de proyectos",
+            "itemTitle6": "Plataforma educativa",
+            "itemText6": "Educación en línea en el área de inversión de capital riesgo, DeFi, cadena de bloques y criptomonedas"
+        },
+        "lab": {
+            "title": "Laboratorio de cadena de bloques",
+            "subtitle": "Del desarrollo de los proyectos de cadena de bloques se ocupa DigiU.Lab. \nSus áreas de actividad son la investigación en cadenas de bloques, la construcción de su propio ecosistema DeFi y el desarrollo de productos. El principal proyecto del laboratorio de cadena de bloques es Eywa.Finance, un protocolo de transferencia de datos y liquidez entre cadenas.",
+            "item1": "Participante y premiado en Hackathones internacionales",
+            "item2": "Eywa.Finance es el primer producto en estadio de pruebas alfa",
+            "item3": "En los proyectos de laboratorio Invierten fondos internacionales de capital riesgo"
+        },
+        "assetManagement": {
+            "title": "Gestión de activos",
+            "subtitle": "DigiU.Wealth es un producto de inversión del ecosistema que ofrece rendimientos mensuales sin riesgo de caída de depósitos en ETH, BTC, USDT desde octubre de 2020.",
+            "item1": "Ingresos pasivos en el mercado DeFi",
+            "item2": "Minimización del riesgo con auditorías independientes de los contratos inteligentes",
+            "item3": "Rentabilidad superior al 30% anual en USDT"
+        },
+        "ai": {
+            "title": "Desarrollos en el campo de la IA",
+            "subtitle": "El laboratorio de IA incluye áreas de desarrollo como el procesamiento del habla y el lenguaje natural, la visión por ordenador y el análisis predictivo. Cada área de desarrollo son servicios y aplicaciones autónomas que tienen un alto potencial de crecimiento explosivo en número de usuarios y capitalización.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "La tecnología patentada de clonación de voz.\nDigiU.Voice transforma el texto en voz utilizando la tecnología de IA text-to-speech, permite reproducir las entonaciones, acentos y pausas de una persona concreta.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision es una tecnología de visión por ordenador que permite distinguir objetos, edades y emociones de las personas.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Tecnología de análisis predictivo que permite predecir los movimientos del mercado mediante redes neuronales."
+        },
+        "venture": {
+            "title": "Fondo de capital riesgo internacional \npara startups de TI",
+            "subtitle": "DigiU acompaña a las startups de TI en todas las etapas de crecimiento, ayudándolas no sólo en el desarrollo y lanzamiento de productos y estrategias de venta, sino también en la búsqueda de socios estratégicos y en la captación de inversores en las siguientes rondas.",
+            "itemTitle1": "Asesoramiento y aceleración",
+            "itemText1": "Peritaje en tecnología y productos",
+            "itemTitle2": "Financiación",
+            "itemText2": "Proporcionamos inversiones business angels",
+            "itemTitle3": "Recaudación de fondos",
+            "itemText3": "Asistencia en la atracción de fuentes de fondos adicionales",
+            "itemTitle4": "Marketing",
+            "itemText4": "Publicidad y apoyo a los medios de comunicación"
+        },
+        "becomeCoowner": {
+            "title": "Conviértase en copropietario de cientos de startups en el ámbito de las Cadenas de bloques y la IA",
+            "button": "Hágase inversor en DigiU"
+        },
+        "partners": {
+            "title": "Asociados del ecosistema"
+        },
+        "community": {
+            "title": "Comunidad internacional de inversores DigiU.Partners",
+            "subtitle": "La comunidad DigiU cuenta con 103 069 asociados de 182 países de todo el mundo. DigiU.Partners ayuda a los inversores a entender el proyecto, crea una comunidad, organiza seminarios web, conferencias y ayuda a ocuparse de la promoción informativa del proyecto. Todos los socios reciben información rápida, respuestas a sus preguntas y apoyo.",
+            "text": "Aprenda a convertirse en copropietario de cientos de startups en el ámbito de las cadenas de bloques y la IA desde 500 dólares",
+            "button": "Formar parte de la comunidad"
+        },
+        "education": {
+            "title": "Programas educativos",
+            "subtitle": "La plataforma educativa DigiU.Education da a todos la oportunidad de obtener una educación gratuita y de pago en el ámbito de las finanzas, la inversión y las DeFi.",
+            "itemTitle1": "Curso «Cómo convertirse en capitalista de riesgo»",
+            "itemText1": "Un curso gratuito para principiantes en el mundo de la inversión de capital riesgo",
+            "itemTitle2": "Curso de introducción a las criptomonedas",
+            "itemText2": "Curso de iniciación gratuito para los que quieren empezar a ganar dinero en el mercado de las criptomonedas",
+            "itemTitle3": "Curso de criptomonedas 2.0 DeFi",
+            "itemText3": "Obtenga habilidades prácticas para ganar dinero en el mercado de las criptomonedas en sólo 8 lecciones",
+            "freeCource": "Obtenga acceso a un curso gratuito:\nCómo convertirse en inversor de capital riesgo",
+            "button": "Obtener acceso"
+        },
+        "subscribe": {
+            "title": "¡Reciba las noticias el primero!",
+            "subtitle": "Suscríbase a nuestro boletín de noticias para saber más sobre las nuevas inversiones y los secretos de las empresas emergentes y los fondos de capital riesgo de éxito.",
+            "button": "Subscribirse"
+        },
+        "footer": {
+            "title": "Proyectos de desarrollo y financiación\nEn el ámbito de la inteligencia artificial y la tecnología de cadena de bloques",
+            "ecosystem": "Ecosistema DigiU",
+            "venture": "Fondo de capital riesgo",
+            "ai": "Laboratorio de Inteligencia Artificial de DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO \"DigiU\" OGRN 1195476086740 INN 5405050584 630102, Novosibirsk, calle Kirova 48, oficina 701 C/c 4070381030000712970 en SA Tinkoff Bank \nCorreo electrónico: info@digiu.ai Tel: +7-383-258-13-99, +7-923-142-45-86",
+            "offer": "Oferta pública",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "HR": {
+        "menu": {
+            "home": "Naslovnica",
+            "news": "Vijesti",
+            "ecosystem": "Ekosustav DigiU",
+            "lab": "Blockchain labaratorij",
+            "assetManagement": "Upravljanje aktivom",
+            "ai": "Razvoj AI",
+            "venture": "Rizični fond",
+            "about": "O nama",
+            "projects": "Projekti",
+            "forInvestors": "Za investitore",
+            "forPartners": "Za partnere",
+            "contact": "Kontakt",
+            "login": "Prijava",
+            "register": "Registracija"
+        },
+        "head": {
+            "title": "Ekosustav za razvoj i financiranje projekata iz područja umjetne inteligencije i blockchain tehnologija",
+            "subtitle": "Najveću korist od razvoja visokih tehnologija treba imati običan čovjek.",
+            "downloadConcept": "Preuzmi koncept",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1U-p4jPWmWRawo8I_a6vokakZgUa_3GAh&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Broj investitora DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Registrirani korisnici u ekosustavu",
+            "itemTitle3": "182",
+            "itemText3": "Države koje sudjeluju \nu ekosustavu DigiU"
+        },
+        "news": {
+            "title": "Vijesti",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Početak alfa-testiranja platforme EYWA",
+            "newsText1": "8. rujna 2021. godine pokrenuli smo prvu fazu alfa-tesiranja platforme EYWA – prvog potencijalnog jednoroga ekosustava",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Dobrodošli u ured DigiU!",
+            "newsText2": "Jeste li spremni saznati kako prolazi DigiU dan? Tko je odgovoran za osobni račun, tko je odgovoran za AI razvoj DigiU,tko traži najbolje stručnjake za tim iz cijelog svijeta?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Implementacija razvoja AI DigiU u mrežu autoservisa",
+            "newsText3": "Vlasnik Hunter-Service-a kontaktirao nas je sa zahtjevom da optimiziramo proces praćenja aktivnosti zaposlenika u jednoj od njegovih autopraonica.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Ekosustav DigiU",
+            "itemTitle1": "Blockchain laboratorij",
+            "itemText1": "Razvoj projekata u području blockchain tehnologija",
+            "itemTitle2": "Upravljanje imovinom",
+            "itemText2": "Povjerljivo upravljanje kripto aktivom",
+            "itemTitle3": "Laboratorij AI",
+            "itemText3": "Razvoj projekata u području umjetne inteligencije",
+            "itemTitle4": "Rizični fond",
+            "itemText4": "Investiranje u tehnologije i projekte u području AI i blockchain",
+            "itemTitle5": "Međunarodna udruga investitora",
+            "itemText5": "Financijsko i informacijsko promicanje projekta",
+            "itemTitle6": "Obrazovna platforma",
+            "itemText6": "Online edukacija iz područja rizičnog ulaganja, DeFi, blockchain i kriptovaluta"
+        },
+        "lab": {
+            "title": "Blockchain laboratorij",
+            "subtitle": "Blockchain projekt razvija DigiU.Lab odjel. \nPodručja djelovanja odjela leže u istraživanju blockchaina, stvaranju vlastitog DeFi ekosustava i razvoju proizvoda. Glavni projekt blockchain laboratorija je Eywa.Finance - crosschain protokol prijenosa podataka i likvidnosti.",
+            "item1": "Sudionik i dobitnik nagrade međunarodnih Hackathona",
+            "item2": "Eywa.Finance je prvi proizvod u fazi alfa testiranja",
+            "item3": "U projekte laboratorija investiraju međunarodni rizizični fondovi"
+        },
+        "assetManagement": {
+            "title": "Upravljanje imovinom (aktivom)",
+            "subtitle": "DigiU.Wealth je investicijski proizvod ekosustava koji donosi mjesečnu dobit bez rizika povlačenja depozita u ETH, BTC, USDT od listopada 2020.godine.",
+            "item1": "Pasivni prihod na tržištu DeFi",
+            "item2": "Minimiziranje rizika putem neovisne revizije smart-ugovora",
+            "item3": "Profitabilnost više od 30% godišnje u USDT"
+        },
+        "ai": {
+            "title": "Razvoj u području AI",
+            "subtitle": "AI laboratorij uključuje područja razvoja kao što su govorna tehnologija i obrada prirodnog jezika, računalni vid, prediktivna analitika. Svako područje razvoja su samostalne usluge i aplikacije koje imaju visok potencijal za eksplozivni rast broja korisnika i kapitalizacije.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Patentirana tehnologija kloniranja govora. DigiU.Voice pretvara tekst u govor pomoću AI tehnologije text-to-speech, omogućuje reprodukciju intonacija, naglasaka i stanki određene osobe.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision je tehnologija računalnog vida koja omogućuje razlikovanje objekata, dobi, emocija ljudi.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Tehnologija prediktivne analitike koja omogućuje predviđanje kretanja tržišta pomoću neuronskih mreža."
+        },
+        "venture": {
+            "title": "Međunarodni rizični fond \nza IT-startupove",
+            "subtitle": "DigiU prati IT startup-ove u svim fazama rasta, pomaže ne samo u razvoju proizvoda, već i strategiji od proizvoda do tržišta i prodaji, te dolasku do strateških partnera i privlačenju investitora u sljedećim krugovima.",
+            "itemTitle1": "Savjetovanje i akseleracija",
+            "itemText1": "Tehnološka i proizvodna ekspertiza",
+            "itemTitle2": "Financiranje",
+            "itemText2": "Nudimo poslovanje – anđeoske investicije",
+            "itemTitle3": "Fundraising",
+            "itemText3": "Pomoć u privlaćenju dodatnih izvora financiranja",
+            "itemTitle4": "Marketing",
+            "itemText4": "Reklamno-informacijska podrška"
+        },
+        "becomeCoowner": {
+            "title": "Postani suvlasnik stotina startup-ova u području blockchain i AI",
+            "button": "Postani investitor DigiU"
+        },
+        "partners": {
+            "title": "Partneri ekosustava"
+        },
+        "community": {
+            "title": "Međunarodna udruga investitora Digiu.Partners",
+            "subtitle": "DigiU zajednica ima 103 069 partnera iz 182 zemlje. DigiU.Partners pomaže investitorima razumjeti projekt, stvara zajednicu, organizira webinare, konferencije i pomaže u promicanju informacija o projektu. Svaki partner tvrtke dobiva brzu povratnu informaciju, odgovore na pitanja od interesa i podršku.",
+            "text": "Saznajte kako postati suvlasnik stotina startup-ova u području blockchain i AI od 500$",
+            "button": "Postani dio zajednice"
+        },
+        "education": {
+            "title": "Obrazovni programi",
+            "subtitle": "Obrazovna platforma DigiU.Education pruža mogućnost svima na plaćeno i besplatno obrazovanje u području financija, investicija i DeFi.",
+            "itemTitle1": "Tečaj «Kako postati rizični investitor»",
+            "itemText1": "Besplatni tečaj za početnike u svijetu rizičnih investicija",
+            "itemTitle2": "Tečaj «Uvod u kriptovalutu»",
+            "itemText2": "Besplatni uvodni tečaj za one koji žele početi zarađivati na tržištu kriptovaluta",
+            "itemTitle3": "Tečaj «Kriptovalute 2.0 DeFi»",
+            "itemText3": "Steknite praktične vještine zarade na kripto tržištu u samo 8 lekcija",
+            "freeCource": "Pristupite besplatnom tečaju: \nKako postati rizični investitor",
+            "button": "Ostvarite pristup"
+        },
+        "subscribe": {
+            "title": "Saznajte vijesti među prvima!",
+            "subtitle": "Pretplatite se na naš newsletter kako biste saznali više o novim investicijama, kao i o tajnama uspješnih startup-ova i rizičnih fondova.",
+            "button": "Pretplati se"
+        },
+        "footer": {
+            "title": "Razvoj i financiranje projekata u području \numjetne inteligencije i blockchain tehnologija",
+            "ecosystem": "Ekosustav DigiU",
+            "venture": "Rizični fond",
+            "ai": "Laboratorij umjetne inteligencije DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "AO “ TsifrovoyTy ” MBS 1195476086740 OIB 5405050584 630102, Novosibirsk, ulica Kirova, 48, ured 701 Br.rač. 407038103000000712970 u “Tin'koff Bank” d.d.\nE-mail: info@digiu.ai Tel.: +7-383-258-13-99, +7-923-142-45-86",
+            "offer": "Javna ponuda",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "ID": {
+        "menu": {
+            "home": "Halaman muka",
+            "news": "Berita",
+            "ecosystem": "Ekosistem DigiU",
+            "lab": "Lab Blockchain",
+            "assetManagement": "Manajemen aset",
+            "ai": "Perkembangan AI",
+            "venture": "Venture Fund",
+            "about": "Tentang perusahaan",
+            "projects": "Proyek",
+            "forInvestors": "Untuk para investor",
+            "forPartners": "Untuk rekan-rekan",
+            "contact": "Kontak",
+            "login": "Masuk",
+            "register": "Pendaftaran"
+        },
+        "head": {
+            "title": "Ekosistem pengembangan dan pembiayaan proyek di bidang kecerdasan buatan dan teknologi blockchain",
+            "subtitle": "Penerima utama dari pengembangan teknologi tinggi\nharus menjadi orang biasa.",
+            "downloadConcept": "Unduh konsepsi",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1uESM_9koyXyYHCM0dA6bBC_vqSiek60r&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Jumlah investor DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Pengguna yang terdaftar dalam ekosistem",
+            "itemTitle3": "182",
+            "itemText3": "Negara\nEkosistem DigiU"
+        },
+        "news": {
+            "title": "Berita",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Awal pengujian alpha\ndari platfrom EYWA",
+            "newsText1": "Pada tanggal 8 September 2021, kami meluncurkan tahap pertama dari pengujian platform alpha EYWA - unicorn potensial pertama dari ekosistem",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Selamat datang di kantor DigiU!",
+            "newsText2": "Apakah Anda siap untuk mencari tahu bagaimana hari kerja DigiU? Siapa yang bertanggung jawab atas akun pribadi, membuat perkembangan DigiU AI, dan mencari spesialis terbaik untuk bergabung dengan tim kami di seluruh dunia?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Implementasi dari perkembangan DigiU AI di jaringan layanan mobil",
+            "newsText3": "Pemilik Hunter-Service menghubungi kami dengan permintaan untuk mengoptimalkan proses pemantauan karyawan di salah satu tempat cuci mobilnya.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Ekosistem DigiU",
+            "itemTitle1": "Lab Blockchain",
+            "itemText1": "Perkembangan proyek di bidang teknologi blockchain",
+            "itemTitle2": "Manajemen Aset",
+            "itemText2": "Investment trust dari aset kripto",
+            "itemTitle3": "Laboratorium AI",
+            "itemText3": "Perkembangan proyek di bidang kecerdasan buatan",
+            "itemTitle4": "Venture Fund",
+            "itemText4": "Investasi di teknologi dan proyek AI dan blockchain",
+            "itemTitle5": "Komunitas Internasional para investor",
+            "itemText5": "Pembiayaan dan promosi informasi proyek",
+            "itemTitle6": "Platform Pembelajaran",
+            "itemText6": "Pembelajaran online di bidang investasi ventura, DeFi, Blockchain dan uang kripto"
+        },
+        "lab": {
+            "title": "Lab Blockchain",
+            "subtitle": "Proyek Blockchain dikembangkan oleh DigiU.Lab\nUnit ini melakukan penelitian blockchain, membuat ekosistem DeFi sendiri, dan mengkembangkan produk baru. Proyek utama laboratorium blockchain adalah Eywa.Finance, protokol crosschain untuk transfer data dan likuiditas.",
+            "item1": "Peserta dan pemenang Hackathon International",
+            "item2": "Eywa.Finance adalah produk pertama dalam tahap pengujian alfa",
+            "item3": "Fund ventura internasional berinvestasi di proyek laboratorium"
+        },
+        "assetManagement": {
+            "title": "Manajemen Aset",
+            "subtitle": "DigiU.Wealth adalah produk investasi ekosistem yang memberikan penghasilan bulanan tanpa risiko penarikan deposit dalam ETH, BTC, USDT sejak bulan Oktober 2020.",
+            "item1": "Pendapatan pasif di pasar DeFi",
+            "item2": "Meminimalkan risiko karena audit independen dari Smart Contract",
+            "item3": "Penghasilan lebih dari 30% per tahun dalam USDT"
+        },
+        "ai": {
+            "title": "Perkembangan di bidang AI",
+            "subtitle": "Lab AI mencakup teknologi ucapan dan pemrosesan bahasa alami, computer vision, analisis prediktif. Setiap area perkembangan merupakan layanan dan aplikasi mandiri yang memiliki potensi tinggi untuk peningkatan besar dalam jumlah pengguna dan kapitalisasi.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Teknologi kloning ucapan yang dipatenkan.\nDigiU.Voice mengubah teks menjadi ucapan menggunakan teknologi AI text-to-speech, serta memungkinkan mereproduksi intonasi, aksen, dan jeda seseorang.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision adalah teknologi visi komputer yang memungkinkan untuk membedakan objek, usia, dan emosi seseorang.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Teknologi analisis prediktif yang memprediksi pergerakan pasar menggunakan jaringan saraf."
+        },
+        "venture": {
+            "title": "Venture Fund Internasional\nuntuk Start-Up IT",
+            "subtitle": "DigiU menemani startup IT di semua tahap pertumbuhan, dan membantu tidak hanya dalam pengembangan produk, strategi dan penjualan produk ke pasar, tetapi juga dalam tahap pencarian rekan-rekan strategis dan penarikan investor di ronde berikutnya.",
+            "itemTitle1": "Advising dan akselerasi",
+            "itemText1": "Pemeriksaan teknologi dan produk",
+            "itemTitle2": "Pembiayaan",
+            "itemText2": "Kami menyediakan investasi malaikat bisnis",
+            "itemTitle3": "Fundraising",
+            "itemText3": "Bantuan dalam menarik sumber pembiayaan tambahan",
+            "itemTitle4": "Pemasaran",
+            "itemText4": "Dukungan periklanan dan informasi"
+        },
+        "becomeCoowner": {
+            "title": "Menjadi co-owner ratusan perusahaan start up di bidang blockchain dan AI",
+            "button": "Jadilah Investor DigiU"
+        },
+        "partners": {
+            "title": "Mitra Ekosistem"
+        },
+        "community": {
+            "title": "Komunitas Para Investor Internasional DigiU.Partners",
+            "subtitle": "Komunitas DigiU memiliki 103 069 mitra dari 182 negara di seluruh dunia. DigiU.Partners membantu para investor memahami proyek, membuat komunitas, menyelenggarakan webinar, konferensi, dan membantu mempromosikan proyek dari sudut pandangan informasi. Setiap rekan perusahaan menerima masukan dengan cepat, serta jawaban atas pertanyaan, dan dukungan.",
+            "text": "Cari tahu bagaimana cara menjadi co-owner ratusan perusahaan start-up dalam bidang blockchain dan AI mulai dari $ 500",
+            "button": "Menjadi bagian dari komunitas"
+        },
+        "education": {
+            "title": "Program pembelajaran",
+            "subtitle": "Sistem pembelajaran DigiU.Education menyediakan kesempatan bagi semua orang untuk mendapatkan pelajaran secara gratis di bidang keuangan, investasi, DeFi.",
+            "itemTitle1": "Kursus «Bagaimana cara menjadi seorang investor ventura»",
+            "itemText1": "Kursus gratis untuk pemula di dunia investasi ventura",
+            "itemTitle2": "Kursus: «Pengantar ke uang kripto»",
+            "itemText2": "Kursus pengantar gratis untuk mereka yang ingin mulai menghasilkan uang di pasar kripto",
+            "itemTitle3": "Kursus «Uang Kripto 2.0 DeFi»",
+            "itemText3": "Dapatkan keterampilan praktis untuk menghasilkan uang di pasar kripto hanya dalam 8 pelajaran",
+            "freeCource": "Dapatkan akses ke kursus gratis:\nBagaimana cara menjadi investor ventura",
+            "button": "Dapatkan akses"
+        },
+        "subscribe": {
+            "title": "Jadilah yang pertama mendapatkan berita!",
+            "subtitle": "Berlangganan newsletter kami untuk mempelajari lebih lanjut tentang investasi baru, serta rahasia start up yang sukses dan fund ventura.",
+            "button": "Berlangganan"
+        },
+        "footer": {
+            "title": "Pengembangan dan pembiayaan proyek\ndi bidang kecerdasan buatan dan teknologi blockchain",
+            "ecosystem": "Ekosistem DigiU",
+            "venture": "Venture Fund",
+            "ai": "Laboratorium Kecerdasan Buatan DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "Organisasi nirlaba otonom ANO \"TsifrovoyTY\" OGRN 1195476086740 INN 5405050584 630102, kota Novosibirsk, jl.Kirova,48, kantor 701 No.Rek. 407038103000000712970 di Tinkoff Bank JSC\nAlamat email: info@digiu.ai No.Tel. +7-383-258-13-99, +7-923-142-45-86",
+            "offer": "Offer and acceptance",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "IN": {
+        "menu": {
+            "home": "मुख्य",
+            "news": "न्यूज़",
+            "ecosystem": "DigiU का इकोसिस्टम",
+            "lab": "ब्लॉकचेन प्रयोगशाला",
+            "assetManagement": "परिसंपत्ति प्रबंधन",
+            "ai": "AI का डेवलपमेंट",
+            "venture": "वेंचर फण्ड",
+            "about": "कम्पनी के बारे में",
+            "projects": "प्रोजेक्ट",
+            "forInvestors": "निवेशक",
+            "forPartners": "पार्टनर्स",
+            "contact": "सम्पर्क",
+            "login": "प्रवेश करना",
+            "register": "पंजीकरण"
+        },
+        "head": {
+            "title": "AI और ब्लॉकचेन टेक्नॉलजी के क्षेत्र में प्रोजेक्टों के विकास और वित्तपोषण का इकोसिस्टम",
+            "subtitle": "बेहतर टेक्नॉलजी के विकास का मुख्य लाभार्थी एक साधारण व्यक्ति होना चाहिए",
+            "downloadConcept": "कॉन्सेप्ट को डाउनलोड करें",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1wKQO_0dZAddVso5UJ05BxrdzL12N9zJ-&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "DigiU निवेशकों की संख्या",
+            "itemTitle2": "103 069",
+            "itemText2": "इकोसिस्टम में रजिस्टर्ड यूजर्स",
+            "itemTitle3": "182",
+            "itemText3": "वे देश जहाँ DigiU इकोसिस्टम मौजूद है"
+        },
+        "news": {
+            "title": "ख़बर",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "EYWA प्लेटफॉर्म के अल्फा-टेस्टिंग की शुरुआत",
+            "newsText1": "8 सितम्बर 2021 को हमने इकोसिस्टम के सबसे पहले क्षमताशील यूनिकॉर्न EYWA प्लेटफॉर्म के अल्फा-टेस्टिंग के पहले चरण की शुरुआत की",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "DigiU ऑफिस में आपका स्वागत है",
+            "newsText2": "क्या आप DigiU के कार्यदिवस के बारे में जानने को तैयार हैं? निजी अकाउंट के लिए कौन ज़िम्मेदार है, DigiU AI डेवलपमेंट का निर्माण कौन करता ,है, और कौन अपनी टीम में शामिल करने के लिए दुनियाभर में सबसे बेहतर विशेषज्ञों को ढूंढ रहा है।",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "कार सर्विस नेटवर्क में DigiU AI डेवलपमेंट का कार्यान्वयन",
+            "newsText3": "Hunter सर्विस के मालिक ने अपनी एक कार वॉश में कर्मचारियों की निगरानी की प्रक्रिया को बेहतर करने के अनुरोध के साथ हमसे सम्पर्क किया।",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "DigiU इकोसिस्टम",
+            "itemTitle1": "ब्लॉकचेन लैब",
+            "itemText1": "ब्लॉकचेन टेक्नॉलजी के क्षेत्र में प्रोजेक्ट डेवलपमेंट",
+            "itemTitle2": "एसेट मैनेजमेंट",
+            "itemText2": "क्रिप्टो एसेट का ट्रस्ट मैनेजमेंट",
+            "itemTitle3": "AI लैब",
+            "itemText3": "AI के क्षेत्र में प्रोजेक्टों का विकास",
+            "itemTitle4": "वेन्चर फण्ड",
+            "itemText4": "AI और ब्लॉकचेन के क्षेत्र में टेक्नॉलजी और प्रोजेक्टों में निवेश",
+            "itemTitle5": "निवेशकों की अंतरराष्ट्रीय कम्युनिटी",
+            "itemText5": "प्रोजेक्ट का वित्तीय और सूचना प्रमोशन",
+            "itemTitle6": "शैक्षणिक प्लेटफॉर्म",
+            "itemText6": "वेन्चर निवेश, DeFi, ब्लॉकचेन और क्रिप्टोकरेंसी के क्षेत्र में अनलाइन शिक्षा"
+        },
+        "lab": {
+            "title": "ब्लॉकचेन लैब",
+            "subtitle": "DigiU.Lab डिवीजन ब्लॉकचेन प्रोजेक्टों के विकास में लगा है। डिवीजन की गतिविधि के क्षेत्र ब्लॉकचेन के अध्ययन, स्वयं के DeFi इकोसिस्टम के निर्माण और प्रोडक्ट के विकास में निहित हैं। ब्लॉकचेन लैब का मुख्य प्रोजेक्ट Eywa.Finance है, जो डेटा ट्रांसफर और लिक्विडिटी के लिए एक क्रॉस चेन प्रोटोकॉल होता है।",
+            "item1": "अंतरराष्ट्रीय हैकथोन के भागीदार और पुरस्कार के विजेता",
+            "item2": "Eywa.Finance अल्फा-टेस्टिंग के चरणों का पहला प्रोडक्ट",
+            "item3": "अंतरराष्ट्रीय वेन्चर फण्ड प्रोजेक्ट लैब में निवेश करती है"
+        },
+        "assetManagement": {
+            "title": "एसेट मैनेजमेंट",
+            "subtitle": "DigiU.Wealth इकोसिस्टम का एक निवेश प्रोडक्ट है, जो अक्टूबर 2020 से ETH, BTC, USDT में डिपॉजिट में गिरावट के जोखिम के बिना मुनाफ़ा लाता है।",
+            "item1": "DeFi बाज़ार में निष्क्रिय आय",
+            "item2": "स्मार्ट कान्ट्रैक्ट का स्वतन्त्र ऑडिट के माध्यम से जोखिम का न्यूनीकरण",
+            "item3": "USDT में प्रति वर्ष 30% से अधिक का लाभ"
+        },
+        "ai": {
+            "title": "AI के क्षेत्र में विकास",
+            "subtitle": "AI लैब में स्पीच टेक्नॉलजी और प्राकृतिक भाषा प्रसंस्करण, कंप्यूटर विज़न, प्रेडिक्टिव एनालिसिस जैसे विकास के क्षेत्र शामिल हैं। विकास के प्रत्येक क्षेत्र स्वायत्त हैं और वे अनुप्रयोग हैं, जिनमें उपयोगकर्ताओं और पूंजीकरण की संख्या में विस्फोटक वृद्धि की उच्च क्षमता है",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "पेटेंट स्पीच क्लोनिंग टेक्नॉलजी। \nDigiU.Voice text-to-speech AI टेक्नॉलजी का इस्तेमाल कर टेक्स्ट को स्पीच में बदल देता है, साथ ही यह किसी विशेष व्यक्ति के स्वर, उच्चारण और ठहराव को पुनः पेश करता है।",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision वह कम्प्यूटर विज़न टेक्नॉलजी है, जो विषयों, उम्र और लोगों की भावनाओं के बीच अन्तर करता है।",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "प्रेडिक्टिव एनलिटिक्स टेक्नॉलजी न्युरल नेटवर्क का इस्तेमाल कर बाज़ार की गति का आकलन करता है।"
+        },
+        "venture": {
+            "title": "IT स्टार्टअप के लिए अंतरराष्ट्रीय वेन्चर फण्ड",
+            "subtitle": "DigiU विकास के सभी चरणों में आईटी स्टार्टअप के साथ है, न केवल उत्पाद विकास, बिक्री बाजार में उत्पाद लॉन्च करने में मदद करता है, बल्कि रणनीतिक भागीदारों तक पहुंचने और अगले दौर में धन जुटाने में भी मदद करता है।",
+            "itemTitle1": "सलाह और त्वरण",
+            "itemText1": "तकनीकी और प्रोडक्ट विश्लेषक",
+            "itemTitle2": "वित्त",
+            "itemText2": "हम बिज़नेस निवेश का नज़रिया मुहैया कराते हैं",
+            "itemTitle3": "फण्डरेज़िंग",
+            "itemText3": "वित्त के अतिरिक्त स्रोतों को आकर्षित करने में सहायता",
+            "itemTitle4": "मार्केटिंग",
+            "itemText4": "विज्ञापन और सूचना सहयोग"
+        },
+        "becomeCoowner": {
+            "title": "ब्लॉकचेन और AI के क्षेत्र में सैंकड़ों स्टार्टअप के साझा मालिक बनें",
+            "button": "DigiU निवेशक बनें"
+        },
+        "partners": {
+            "title": "पार्टनर इकोसिस्टम"
+        },
+        "community": {
+            "title": "DigiU.Partners के निवेशकों की अंतरराष्ट्रीय कम्युनिटी",
+            "subtitle": "DigiU कम्युनिटी के दुनियाभर के 182 देशों में 103 069 से भी अधिक पार्टनर हैं। DigiU.Partners निवेशकों को प्रोजेक्ट समझने में मदद करता है, यह वेबिनारों और सम्मेलनों को आयोजित करता है तथा प्रोजेक्ट को बढ़ावा देने में मदद करता है। कम्पनी के प्रत्येक पार्टनरों को त्वरित प्रतिक्रिया, इन्र्ट्ररेस्ट और सपोर्ट के सवालों के जवाब मिल जाते हैं।",
+            "text": "500$ से सैंकड़ों ब्लॉकचेन और AI स्टार्टअप के साझा मालिक बनना सीखें",
+            "button": "कम्युनिटी का हिस्सा बनें"
+        },
+        "education": {
+            "title": "शैक्षणिक कार्यक्रम",
+            "subtitle": "शैक्षणिक प्लेटफॉर्म DigiU.Education सभी को वित्त, निवेश, DeFi के क्षेत्र में मुफ़्त शिक्षा ग्रहण करने का अवसर प्रदान करता है",
+            "itemTitle1": "“वेन्चर निवेशक बनने” का कोर्स",
+            "itemText1": "वेन्चर निवेशों की दुनिया में नये लोगों के लिए मुफ़्त कोर्स",
+            "itemTitle2": "कोर्स «क्रिप्टोकरेंसी का परिचय»",
+            "itemText2": "क्रिप्टोकरेंसी बाज़ार में पैसे कमाने की शुरुआत करने की चाहत रखने वाल्व लोगों के लिए मुफ़्त परिचयात्मक कोर्स",
+            "itemTitle3": "क्रिप्टोकरेंसी 2.0 DeFi कोर्स",
+            "itemText3": "केवल 8 पाठों में क्रिप्टो बाज़ार में पैसे कमाने के व्यावहारिक कुशलता सीखें",
+            "freeCource": "वेन्चर निवेशक कैसे बनें: इस मुफ़्त कोर्स को पायें",
+            "button": "इसे पायें"
+        },
+        "subscribe": {
+            "title": "ख़बरों को सबसे पहले प्राप्त करें!",
+            "subtitle": "नये निवेशों, सफ़ल स्टार्टअप और वेन्चर फण्ड के बारे में अधिक जानकारी के लिए हमारे न्यूजलेटर को सबस्क्राइब करें",
+            "button": "सबस्क्राइब करें"
+        },
+        "footer": {
+            "title": "AI और ब्लॉकचेन टेक्नॉलजी के क्षेत्र में विकास और वित्तीय प्रोजेक्ट",
+            "ecosystem": "DigiU इकोसिस्टम",
+            "venture": "वेन्चर फण्ड",
+            "ai": "DigiU का AI लैब",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO “डिजिटल प्रोडक्ट” OGRN 1195476086740 INN 5405050584 630102, नोवोसिबिरिस्क, ул. किरोव, 48, ऑफिस701 Р/с 407038103000000712970 в АО “चिन्कोफ बैंक”\n E-mail: info@digiu.ai Тел.: +7-383-258-13-99, +7-923-142-45-86",
+            "offer": "पब्लिक ऑफर",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "IT": {
+        "menu": {
+            "home": "Pagina principale",
+            "news": "Novità",
+            "ecosystem": "Ecosistema DigiU",
+            "lab": "Laboratorio Blockchain",
+            "assetManagement": "Gestione delle risorse",
+            "ai": "Sviluppi IA",
+            "venture": "Fondo di venture capital",
+            "about": "Su di noi",
+            "projects": "Progetti",
+            "forInvestors": "Per gli investitori",
+            "forPartners": "Per I partner",
+            "contact": "Contatti",
+            "login": "Accedi",
+            "register": "Registrati"
+        },
+        "head": {
+            "title": "Ecosistema per lo sviluppo ed il finanziamento di progetti nel campo dell'intelligenza artificiale e delle tecnologie blockchain",
+            "subtitle": "Sono le persone che devono approfittare dello sviluppo delle nuove tecnologie.",
+            "downloadConcept": "Scaricare il concetto",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1SDwxzVLKWfayPM0RID_GOynZO1RK1fFd&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Numero di investitori DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Utenti registrati nell'ecosistema",
+            "itemTitle3": "182",
+            "itemText3": "Paesi-membri \ndell'ecosistema DigiU"
+        },
+        "news": {
+            "title": "Novità",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Inizio dell’alpha-testing della Piattaforma EYWA",
+            "newsText1": "L'8 settembre 2021, abbiamo lanciato la prima fase dell’alpha-testing della piattaforma EYWA: il primo potenziale unicorno dell’ecosistema",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Benvenuti nell'ufficio di DigiU!",
+            "newsText2": "Pronto a scoprire come va una tipica giornata lavorativa in DigiU? Chi è responsabile dell'account personale, crea sviluppi IA di DigiU, cerca i migliori esperti per il team nel tutto il mondo?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Implementazione degli sviluppi AI di DigiU alla rete delle officine",
+            "newsText3": "Il titolare di Hunter-Service ci ha contattato chiedendoci di ottimizzare il processo di monitoraggio del lavoro dei dipendenti presso uno dei suoi autolavaggi.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Ecosistema DigiU",
+            "itemTitle1": "Laboratorio blockchain",
+            "itemText1": "Sviluppo dei progetti nel campo delle tecnologie blockchain",
+            "itemTitle2": "Gestione delle risorse",
+            "itemText2": "Gestione fiduciaria delle criptovalute",
+            "itemTitle3": "Laboratorio dell’IA",
+            "itemText3": "Sviluppo dei progetti nel campo dell'intelligenza artificiale",
+            "itemTitle4": "Fondo di venture capital",
+            "itemText4": "Investimenti nelle tecnologie e progetti nel campo di intelligenza artificiale e blockchain",
+            "itemTitle5": "Comunità internazionale degli investitori",
+            "itemText5": "Finanziamento e promozione del progetto",
+            "itemTitle6": "Piattaforma educativa",
+            "itemText6": "Formazione online nel campo dell’investimento di rischio, DeFi, blockchain e criptovalute"
+        },
+        "lab": {
+            "title": "Laboratorio blockchain",
+            "subtitle": "I progetti blockchain vengono sviluppati dalla divisione DigiU.Lab\nTra le attività della divisione sono ricerca nel campo blockchain, creazione del proprio ecosistema DeFi e sviluppo dei prodotti. Il progetto principale del laboratorio blockchain è Eywa.Finance - un protocollo cross-chain per il trasferimento di dati e di liquidità.",
+            "item1": "Partecipante e vincitore dei Hackathon internazionali",
+            "item2": "Eywa.Finance è il primo prodotto nella fase dell’alpha-testing",
+            "item3": "I fondi di rischio internazionali investono nei progetti del laboratorio"
+        },
+        "assetManagement": {
+            "title": "Gestione delle risorse",
+            "subtitle": "DigiU.Wealth è un prodotto di investimento dell'ecosistema che porta profitti mensili senza il rischio di ribasso del deposito in ETH, BTC, USDT da ottobre 2020.",
+            "item1": "Guadagni passivi sul mercato DeFi",
+            "item2": "Riduzione al minimo del rischio grazie agli audit indipendenti dei contratti intelligenti",
+            "item3": "Redditività superiore al 30% annuo in USDT"
+        },
+        "ai": {
+            "title": "Sviluppi nel campo dell’IA",
+            "subtitle": "Il laboratorio dell’IA comprende aree di sviluppo come la tecnologia vocale e l'elaborazione del linguaggio naturale, la visione artificiale, l'analisi predittiva. Ogni area di sviluppo è un servizio o un’applicazione autonoma che hanno un alto potenziale di crescita esplosiva del numero di utenti e della capitalizzazione.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Tecnologia brevettata di clonazione vocale. \nDigiU.Voice trasforma il testo in parlato utilizzando la tecnologia IA text-to-speech, consente di riprodurre intonazioni, accenti e pause di una determinata persona.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision è una tecnologia della visione artificiale che permette di distinguere oggetti, età ed emozioni delle persone.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Tecnologia di analisi predittiva che consente di prevedere i cambiamenti del mercato utilizzando le reti neurali."
+        },
+        "venture": {
+            "title": "Fondo internazionale di venture capital \nper le startup IT",
+            "subtitle": "DigiU accompagna le startup IT in tutte le fasi della crescita, aiuta non solo nello sviluppo del prodotto, della strategia del suo lancio sul mercato e nelle vendite, ma anche nel raggiungere partner strategici e nell'attrarre investitori durante i prossimi round.",
+            "itemTitle1": "Consulenza e accelerazione",
+            "itemText1": "Perizia tecnologica e del prodotto",
+            "itemTitle2": "Finanziamento",
+            "itemText2": "Offriamo investimenti dei business angel",
+            "itemTitle3": "Raccolta fondi",
+            "itemText3": "Supporto nella ricerca delle ulteriori fonti di finanziamento",
+            "itemTitle4": "Marketing",
+            "itemText4": "Supporto pubblicitario ed informativo"
+        },
+        "becomeCoowner": {
+            "title": "Diventa comproprietario di centinaia di startup nel campo della blockchain e dell'IA",
+            "button": "Diventa un investitore DigiU"
+        },
+        "partners": {
+            "title": "I partner dell'ecosistema"
+        },
+        "community": {
+            "title": "Comunità internazionale di investitori DigiU.Partner",
+            "subtitle": "La comunità DigiU ha 103 069 partner provenienti da 182 paesi. DigiU.Partners aiuta gli investitori a comprendere il progetto, crea una comunità, organizza webinar, conferenze ed aiuta a promuovere il progetto. Ogni partner dell'azienda riceve feedback rapidi, risposte alle sue domande, supporto.",
+            "text": "Scopri come diventare comproprietario di centinaia di startup nel campo della blockchain e dell'IA a partire da $500",
+            "button": "Diventare parte della Comunità"
+        },
+        "education": {
+            "title": "Programmi educativi",
+            "subtitle": "La piattaforma educativa DigiU.Education offre a tutti l'opportunità di avere l’accesso all’istruzione gratuita o no, nel campo di finanza, investimenti, DeFi.",
+            "itemTitle1": "Corso «Come diventare un investitore di rischio»",
+            "itemText1": "Corso gratuito per principianti nel mondo degli investimenti di rischio",
+            "itemTitle2": "Corso «Introduzione alle criptovalute»",
+            "itemText2": "Corso introduttivo gratuito per chi vuole iniziare a guadagnare sul mercato delle criptovalute",
+            "itemTitle3": "Corso «Criptovalute 2.0 DeFi»",
+            "itemText3": "Ottieni abilità pratiche di guadagno sul mercato delle criptovalute in sole 8 lezioni",
+            "freeCource": "Accedi al corso gratuito: \nCome diventare un investitore di rischio?",
+            "button": "Accedi"
+        },
+        "subscribe": {
+            "title": "Sii il primo a ricevere notizie!",
+            "subtitle": "Iscriviti alla nostra newsletter per sapere di più sui nuovi investimenti, nonché sui segreti di startup e fondi di rischio di successo.",
+            "button": "Iscriviti"
+        },
+        "footer": {
+            "title": "Sviluppo e finanziamento dei progetti nel campo \ndell'intelligenza artificiale e delle tecnologie blockchain",
+            "ecosystem": "Ecosistema DigiU",
+            "venture": "Fondo di rischio",
+            "ai": "Laboratorio dell’intelligenza artificiale di DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "Organizzazione autonoma non lucrativa “TUdigitale” Numero d'iscrizione 11955476086740 P.IVA 5405050584 via Kirova 48, ufficio 701, 630102 Novosibirsk C/c 407038103000000712970 in “Tinkoff-Banca”\n E-mail: info@digiu.ai Tel.: +7-383-258-13-99, +7-923-142-45-86",
+            "offer": "Offerta pubblica",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "PT": {
+        "menu": {
+            "home": "Principal",
+            "news": "Notícias",
+            "ecosystem": "Ecossistema DigiU",
+            "lab": "Laboratório de blockchain",
+            "assetManagement": "Gestão de ativos",
+            "ai": "Desenvolvimentos de IA",
+            "venture": "Fundo de venture",
+            "about": "Sobre a companhia",
+            "projects": "Projetos",
+            "forInvestors": "Para investidores",
+            "forPartners": "Para parceiros",
+            "contact": "Contatos",
+            "login": "Entrar",
+            "register": "Cadastrar-se"
+        },
+        "head": {
+            "title": "Ecossistema de desenvolvimento e financiamento dos projetos na área de inteligência artificial e tecnologias de blockchain",
+            "subtitle": "O principal beneficiário do desenvolvimento de altas tecnologias \ndeve ser uma pessoa comum.",
+            "downloadConcept": "Baixar o conceito",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1Gt_LxRjIWz0-BMnkqIQLnVdnaI7OuSsQ&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "Quantidade de investidores da DigiU",
+            "itemTitle2": "103 069",
+            "itemText2": "Usuários registrados no ecossistema",
+            "itemTitle3": "182",
+            "itemText3": "Páises do \necossistema DigiU"
+        },
+        "news": {
+            "title": "Notícias",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Início do teste alfa\nDa plataforma EYWA",
+            "newsText1": "Em 8 de setembro de 2021, lançamos a primeira fase de testes alfa da plataforma EYWA - o primeiro potencial unicórnio do ecossistema",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "Seja bem-vindo ao escritório da DigiU!",
+            "newsText2": "Pronto para saber como é um dia de trabalho na DigiU? Quem é o responsável pela conta pessoal, cria desenvolvimentos de AI na DigiU, está procurando os melhores especialistas para a equipe ao redor do mundo?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "Implementação dos desenvolvimentos da DigiU na rede de serviços automotivos",
+            "newsText3": "O proprietário da Hunter-Service nos contatou com um pedido de otimização do processo de monitoramento das atividades dos funcionários em um de seus lava-jatos.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "Ecossistema DigiU",
+            "itemTitle1": "Laboratório de blockchain",
+            "itemText1": "Desenvolvimento de projetos na área de tecnologias de blockchain",
+            "itemTitle2": "Gerenciamento de ativos",
+            "itemText2": "Gerenciamento de confiança de criptoativos",
+            "itemTitle3": "Laboratório de IA",
+            "itemText3": "Desenvolvimento dos projetos na área de inteligência artificial",
+            "itemTitle4": "Fundo de venture",
+            "itemText4": "Investimento em tecnologias e projetos de IA e blockchain",
+            "itemTitle5": "Comunidade internacional de investidores",
+            "itemText5": "Financiamento e promoção informacional do projeto",
+            "itemTitle6": "Plataforma educacional",
+            "itemText6": "Educação online na área de investimentos de venture, DeFi, blockchain e criptomoedas"
+        },
+        "lab": {
+            "title": "Laboratório de blockchain",
+            "subtitle": "Os projetos de blockchain são desenvolvidos pela divisão DigiU.Lab\nAs áreas de atividade da divisão consistem em pesquisa de blockchain, criação de seu próprio ecossistema DeFi e desenvolvimento de produtos. O principal projeto do laboratório de blockchain é Eywa.Finance - um protocolo cross-chain de transferência de dados e liquidez.",
+            "item1": "Participante e vencedor de Hackathons internacionais",
+            "item2": "Eywa.Finance é o primeiro produto na fase de teste alfa",
+            "item3": "Nos projetos de laboratório investem fundos de venture internacionais"
+        },
+        "assetManagement": {
+            "title": "Gestão de ativos",
+            "subtitle": "DigiU.Wealth é um produto de investimento do ecossistema que traz lucro mensal sem o risco de queda do depósito em ETH, BTC, USDT desde outubro de 2020.",
+            "item1": "Lucro passivo no mercado DeFi",
+            "item2": "Minimização dos riscos por conta de auditorias independentes de smart-contratos",
+            "item3": "Rentabilidade acima de 30% ao ano em USDT"
+        },
+        "ai": {
+            "title": "Desenvolvimentos de IA",
+            "subtitle": "O laboratório de IA inclui áreas de desenvolvimento, como tecnologia de fala e processamento de linguagem natural, visão computacional, análise preditiva. Cada área de desenvolvimento consiste em serviços e aplicativos autônomos que têm um alto potencial de crescimento explosivo no número de usuários e capitalização.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Tecnologia de clonagem de voz patenteada.\nDigiU.Voice transforma texto em fala usando a tecnologia de IA text-to-speech, permite reproduzir entonações, acentos e pausas de uma pessoa concreta.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision é uma tecnologia de visão computacional que permite distinguir entre objetos, idade e emoções das pessoas.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Tecnologia de análise preditiva que permite prever os movimentos do mercado usando redes neurais."
+        },
+        "venture": {
+            "title": "Fundo de venture internacioonais \npara startups de TI",
+            "subtitle": "A DigiU acompanha startups de TI em todos os estágios de crescimento, ajuda não apenas no desenvolvimento de produtos, estratégia de entrada do produto para o mercado e vendas, mas também em alcançar parceiros estratégicos e atrair investidores nas próximas rodadas.",
+            "itemTitle1": "Assessoria e aceleração",
+            "itemText1": "Perícia tecnológica e de produtos",
+            "itemTitle2": "Financiamento",
+            "itemText2": "Oferecemos investimentos de negócios",
+            "itemTitle3": "Fundrising",
+            "itemText3": "Assistência para atrair fontes adicionais de financiamento",
+            "itemTitle4": "Marketing",
+            "itemText4": "Suporte de marketing e informação"
+        },
+        "becomeCoowner": {
+            "title": "Torne-se um coproprietário de centenas de startups na área de blockchain e IA",
+            "button": "Torne-se um Investidor da DigiU"
+        },
+        "partners": {
+            "title": "Parceiros do ecossistema"
+        },
+        "community": {
+            "title": "Comunidade internacional de investidores DigiU.Partners",
+            "subtitle": "A comunidade DigiU tem 103 069 parceiros de 182 países. O DigiU.Partners ajuda os investidores a entender o projeto, cria uma comunidade, organiza webinares, conferências e ajuda a divulgar as informações sobre o projeto. Cada parceiro da empresa recebe feedback rápido, respostas a perguntas de interesse, suporte.",
+            "text": "Descubra como se tornar um coproprietário de centenas de startups no campo de blockchain e AI a partir de $ 500",
+            "button": "Fazer parte da comunidade"
+        },
+        "education": {
+            "title": "Programas educacionais",
+            "subtitle": "A plataforma educacional DigiU.Education oferece uma oportunidade para que todos os interessados em receber a educação gratuita e paga em finanças, investimentos, DeFi.",
+            "itemTitle1": "Curso «Como se tornar investidor de venture»",
+            "itemText1": "Curso grátis para iniciantesvno mundo dos investimentos de venture",
+            "itemTitle2": "Curso «Introdução à Criptomoeda»",
+            "itemText2": "Curso introdutório gratuito para aqueles que querem começar a ganhar no mercado de criptomoedas",
+            "itemTitle3": "Curso «Criptomoedas 2.0 DeFi»",
+            "itemText3": "Obtenha habilidades práticas de como ganhar no mercado de criptografia em apenas 8 aulas",
+            "freeCource": "Obtenha acesso ao curso gratuito:\nComo se tornar um investidor de venture",
+            "button": "Obter acesso"
+        },
+        "subscribe": {
+            "title": "Seja o primeiro a saber as novidades!",
+            "subtitle": "Inscreva-se para saber mais sobre novos investimentos e os segredos de startups e fundos de venture de sucesso.",
+            "button": "Inscrever-se"
+        },
+        "footer": {
+            "title": "Desenvolvimento e financiamento de projetos \nna área da inteligência artificial e tecnologias de blockchain",
+            "ecosystem": "Ecossistema DigiU",
+            "venture": "Fundo de venture",
+            "ai": "Laboratório de Inteligência Artificial da DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO TsifrovoyTY PSRN 1195476086740 CNPJ 5405050584 630102, Novosibirsk, st. Kirova, 48, escritório 701 R / s 407038103000000712970 em JSC \"Banco Tinkoff\"\n E-mail: info@digiu.ai Tel.: + 7-383-258-13-99, + 7-923-142-45-86",
+            "offer": "Oferta pública",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    },
+    "TR": {
+        "menu": {
+            "home": "Onemlı",
+            "news": "Haber",
+            "ecosystem": "DigiU ekosistemi",
+            "lab": "Blockchain laboratuvarı",
+            "assetManagement": "Varlik yöneti̇mi̇",
+            "ai": "Yapay zeka geliştirme",
+            "venture": "Girişim fonu",
+            "about": "Şirket hakkında",
+            "projects": "Projeler",
+            "forInvestors": "Yatırımcılar",
+            "forPartners": "Ortaklar için",
+            "contact": "Kişiler",
+            "login": "İçeri gel",
+            "register": "kayıt"
+        },
+        "head": {
+            "title": "Yapay alandaki projelerin geliştirilmesi ve finansmanı için ekosistem zeka ve blockchain teknolojileri",
+            "subtitle": "Yüksek teknolojilerin geliştirilmesinden ana yararlanıcı\nsıradan bir insan olmalı.",
+            "downloadConcept": "Konsepti indir",
+            "conceptLink": "https://drive.google.com/a/digiu.ai/uc?id=1U-p4jPWmWRawo8I_a6vokakZgUa_3GAh&export=download",
+            "itemTitle1": "10 643",
+            "itemText1": "DigiU Yatırımcı Sayısı",
+            "itemTitle2": "103 069",
+            "itemText2": "Ekosistemdeki kayıtlı kullanıcılar",
+            "itemTitle3": "182",
+            "itemText3": "oluşan ülkeler\nDigiU ekosisteminde"
+        },
+        "news": {
+            "title": "Haberler",
+            "newsDate1": "08.09.2021",
+            "newsTitle1": "Alfa testi başlangıcı\nEYWA platformları",
+            "newsText1": "8 Eylül 2021'de EYWA platformunun alfa testinin ilk aşamasını başlattık - ilk potansiyel tek boynuzlu at ekosistemi",
+            "newsLink1": "https://lk.digiu.ai/news/view/341",
+            "newsDate2": "25.08.2021",
+            "newsTitle2": "DigiU ofisine hoş geldiniz!",
+            "newsText2": "DigiU gününüzün nasıl geçtiğini öğrenmeye hazır mısınız? Kişisel hesaptan kim sorumlu, AI geliştirmelerini yaratan DigiU, ekip için en iyi arıyor uzmanları dünya çapında?",
+            "newsLink2": "https://lk.digiu.ai/news/view/326",
+            "newsDate3": "21.07.2021",
+            "newsTitle3": "AI geliştirme DigiU araba servisleri ağına",
+            "newsText3": "Hunter-Service'in sahibi, araba yıkamalarından birinde çalışanların faaliyetlerini izleme sürecini optimize etme talebiyle bizimle iletişime geçti.",
+            "newsLink3": "https://lk.digiu.ai/news/view/300"
+        },
+        "ecosystem": {
+            "title": "DigiU ekosistemi",
+            "itemTitle1": "Blockchain laboratuvarı",
+            "itemText1": "Proje geliştirme Blockchain teknolojileri alanında",
+            "itemTitle2": "Varlık Yönetimi",
+            "itemText2": "Güven yönetimi kripto varlıklar",
+            "itemTitle3": "Yapay zeka laboratuvarı",
+            "itemText3": "Proje geliştirme yapay zeka alanında",
+            "itemTitle4": "Girişim fonu",
+            "itemText4": "Teknolojiye yatırım ve yapay zeka projeleri ve blok zinciri",
+            "itemTitle5": "Uluslararası topluluk yatırımcılar",
+            "itemText5": "Finansman ve bilgi proje tanıtımı",
+            "itemTitle6": "Eğitim platformu",
+            "itemText6": "Alanda çevrimiçi eğitim girişim yatırımı, DeFi, blockchain ve kripto para birimleri"
+        },
+        "lab": {
+            "title": "Blockchain laboratuvarı",
+            "subtitle": "Blockchain projeleri DigiU.Lab bölümü tarafından geliştirilmiştir.\nBölümün faaliyet alanları blok zinciri araştırmalarında, kendi DeFi ekosistemini oluşturmada ve ürün geliştirmede yatmaktadır. Blockchain laboratuvarının ana projesi Eywa.Finance - zincirler arası veri ve likidite transfer protokolü.",
+            "item1": "Katılımcı ve ödüllü uluslararası Hackathonlar",
+            "item2": "Eywa.Finance ilk üründür alfa test aşamaları",
+            "item3": "Laboratuvar projelerine uluslararası yatırım girişim fonları"
+        },
+        "assetManagement": {
+            "title": "Varlık Yönetimi",
+            "subtitle": "DigiU.Wealth, Ekim 2020'den bu yana ETH, BTC, USDT'de mevduat çekme riski olmadan aylık kar getiren bir ekosistem yatırım ürünüdür.",
+            "item1": "DeFi pazarında pasif kazançlar",
+            "item2": "Riski en aza indirmek akıllı sözleşmelerin bağımsız denetimleri",
+            "item3": "USDT'de yıllık %30'un üzerinde karlılık"
+        },
+        "ai": {
+            "title": "AI gelişmeleri",
+            "subtitle": "AI laboratuvarı, konuşma teknolojisi ve doğal dil işleme, bilgisayarla görme, tahmine dayalı analitik gibi geliştirme alanlarını içerir. Her bir geliştirme alanı, kullanıcı sayısında ve kapitalizasyonda patlayıcı büyüme potansiyeli yüksek olan bağımsız hizmetler ve uygulamalardır.",
+            "itemTitle1": "DigiU.Voice",
+            "itemText1": "Patentli konuşma klonlama teknolojisi.\nDigiU.Voice, metinden konuşmaya AI teknolojisini kullanarak metni konuşmaya dönüştürür, belirli bir kişinin tonlamalarını, aksanlarını ve duraklamalarını yeniden oluşturmanıza olanak tanır.",
+            "itemTitle2": "DigiU.Vision",
+            "itemText2": "DigiU.Vision, insanların nesneleri, yaşlarını ve duygularını ayırt etmenizi sağlayan bir bilgisayarlı görüş teknolojisidir.",
+            "itemTitle3": "DigiU.Prophet",
+            "itemText3": "Sinir ağlarını kullanarak piyasa hareketlerini tahmin etmeye izin veren tahmine dayalı analitik teknolojisi."
+        },
+        "venture": {
+            "title": "Uluslararası girişim\nBT girişimleri için fon",
+            "subtitle": "DigiU, BT girişimlerine büyümenin tüm aşamalarında eşlik eder, yalnızca ürün geliştirme, üründen pazara strateji ve satışta değil, aynı zamanda stratejik ortaklara ulaşmada ve sonraki turlarda yatırımcıları çekmede yardımcı olur.",
+            "itemTitle1": "Danışmanlık ve hızlandırma",
+            "itemText1": "Teknolojik ve ürün uzmanlığı",
+            "itemTitle2": "finansman",
+            "itemText2": "İş meleği yatırımları sağlıyoruz",
+            "itemTitle3": "Bağış",
+            "itemText3": "Ek finansman kaynakları çekmek için yardım",
+            "itemTitle4": "Pazarlama",
+            "itemText4": "Reklam ve bilgi desteği"
+        },
+        "becomeCoowner": {
+            "title": "Yüzlerce girişimin ortak sahibi olun blockchain ve yapay zeka alanında",
+            "button": "DigiU Yatırımcısı Olun"
+        },
+        "partners": {
+            "title": "Ekosistem ortakları"
+        },
+        "community": {
+            "title": "Uluslararası yatırımcı topluluğu DigiU.İş Ortakları",
+            "subtitle": "DigiU topluluğunun 182 ülkeden 103 069 ortağı vardır. DigiU.Partners yatırımcıların projeyi anlamasına, bir topluluk oluşturmasına, web seminerleri, konferanslar düzenlemesine ve proje bilgilerinin tanıtılmasına yardımcı olur. Şirketin her ortağı hızlı geri bildirim alır, ilgilenilen sorulara cevaplar, destek.",
+            "text": "Yüzlerce girişimin ortak sahibi olmayı öğrenin 500 dolardan blockchain ve AI alanında",
+            "button": "Topluluğun bir parçası olmak "
+        },
+        "education": {
+            "title": "Eğitim programları",
+            "subtitle": "Eğitim platformu DigiU.Education, herkese ücretli eğitim alma fırsatı sunar ve finans, yatırım, DeFi alanlarında ücretsiz eğitim.",
+            "itemTitle1": "Kurs «Nasıl olunur girişim yatırımcısı»",
+            "itemText1": "Yeni başlayanlar için ücretsiz kurs girişim yatırımları dünyasında",
+            "itemTitle2": "«Kripto Paraya Giriş» Kursu",
+            "itemText2": "için ücretsiz tanıtım kursu kazanmaya başlamak isteyenler kripto para piyasasında",
+            "itemTitle3": "«Kripto Para Birimleri 2.0 DeFi» Kursu",
+            "itemText3": "Uygulamalı beceriler edinin kripto piyasasında kazanç sadece 8 derste",
+            "freeCource": "Ücretsiz bir kursa erişin:\nGirişim yatırımcısı nasıl olunur",
+            "button": "Erişim Al"
+        },
+        "subscribe": {
+            "title": "Haberleri ilk alan siz olun!",
+            "subtitle": "Yeni yatırımların yanı sıra başarılı girişimlerin ve girişim fonlarının sırları hakkında daha fazla bilgi edinmek için bültenimize abone olun.",
+            "button": "Abone olmak"
+        },
+        "footer": {
+            "title": "Projelerin geliştirilmesi ve finansmanı\nyapay zeka ve blockchain teknolojileri alanında",
+            "ecosystem": "DigiU ekosistemi",
+            "venture": "Girişim fonu",
+            "ai": "Yapay Zeka Laboratuvarı DigiU",
+            "lab": "DigiU.Lab",
+            "contacts": "ANO \"Dijital\" OGRN 1195476086740 INN 5405050584 630102, Novosibirsk, st. Kirov, 48, ofis 701 R / s 407038103000000712970 Tinkoff Bank JSC'de\n E-posta: info@digiu.ai Tel.: + 7-383-258-13-99, + 7-923-142-45-86",
+            "offer": "halka arz",
+            "email": "Email:",
+            "phone": "Phone: "
+        }
+    }
+}
